@@ -1,0 +1,6 @@
+test/
+user_privileges/
+config.csrf-secret.php
+config.inc.php
+
+.vscode/
