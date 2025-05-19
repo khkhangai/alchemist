@@ -14,7 +14,7 @@
 <html>
 	<head>
 		<title>
-			{vtranslate($PAGETITLE, $MODULE_NAME)}
+			Alchemist Platform
 		</title>
 		<link REL="SHORTCUT ICON" HREF="layouts/vlayout/skins/images/favicon.ico">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
