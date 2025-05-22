@@ -8,15 +8,15 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-    'Accounts'                     => 'Байгууллагууд',
-    'SINGLE_Accounts'              => 'Байгууллага',
-    'LBL_ADD_RECORD'               => 'Байгууллага нэмэх',
-    'LBL_RECORDS_LIST'             => 'Байгууллагын жагсаалт',
-    'LBL_ACCOUNT_INFORMATION'      => 'Байгууллагын мэдээлэл',
-    'LBL_SHOW_ACCOUNT_HIERARCHY'   => 'Байгууллагын иерархи харуулах',
+    'Accounts'                     => 'Харилцагч',
+    'SINGLE_Accounts'              => 'Харилцагч',
+    'LBL_ADD_RECORD'               => 'Харилцагч нэмэх',
+    'LBL_RECORDS_LIST'             => 'Харилцагч нар',
+    'LBL_ACCOUNT_INFORMATION'      => 'Ерөнхий мэдээлэл',
+    'LBL_SHOW_ACCOUNT_HIERARCHY'   => 'Байгууллагын бүтэц',
     'industry'                     => 'Салбар',
-    'Account Name'                 => 'Байгууллагын нэр',
-    'Account No'                   => 'Байгууллагын дугаар',
+    'Account Name'                 => 'Нэр',
+    'Account No'                   => 'Дугаар',
     'Website'                      => 'Вэб сайт',
     'Ticker Symbol'                => 'Тикер код',
     'Member Of'                    => 'Харьяа байгууллага',
@@ -30,7 +30,7 @@ $languageStrings = array(
     'Integrator'                   => 'Интегратор',
     'Investor'                     => 'Хөрөнгө оруулагч',
     'Press'                        => 'Хэвлэл мэдээлэл',
-    'Prospect'                     => 'Боломжит харилцагч',
+    'Prospect'                     => 'Чухал харилцагч',
     'Reseller'                     => 'Дилер',
     'LBL_START_DATE'               => 'Эхлэх огноо',
     'LBL_END_DATE'                 => 'Дуусах огноо',
@@ -40,7 +40,7 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Are you sure you want to Delete?', 
-	'LBL_DELETE_CONFIRMATION'      => 'Deleting this Organisation will remove its related Opportunities & Quotes. Are you sure you want to delete this Organisation?', 
-	'LBL_MASS_DELETE_CONFIRMATION' => 'Deleting this Organisation will remove its related Opportunities & Quotes. Are you sure you want to delete this Organisation?', 
+	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Та үнэхээр устгахыг хүсэж байна уу?',
+    'LBL_DELETE_CONFIRMATION' => 'Энэ байгууллагыг устгавал холбоотой боломжууд болон үнийн саналууд мөн устах болно. Та энэ байгууллагыг устгахдаа итгэлтэй байна уу?',
+    'LBL_MASS_DELETE_CONFIRMATION' => 'Та байгууллагыг олноор устгавал түүний холбоотой боломжууд болон үнийн саналууд мөн устах болно. Та устгахдаа итгэлтэй байна уу?',
 );
