@@ -8,29 +8,29 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'Accounts'                     => 'Organisations & Contacts'    , // TODO: Review
-	'LBL_ADD_CUSTOM_RULE'          => 'Add Custom Privilege Rule'   , 
-	'Read Only'                    => 'R'                           , 
-	'Read Write'                   => 'R+W'                         , 
-	'LBL_ADD_CUSTOM_RULE_TO'       => 'Add Custom Rule to'          , // TODO: Review
-	'LBL_CAN_ACCESSED_BY'          => 'Can be accessed by'          , 
-	'LBL_PRIVILEGES'               => 'Privileges'                  , 
-	'LBL_SHARING_RULE'             => 'Sharing Rules'               , 
-	'LBL_RULE_NO'                  => 'Rule No.'                    , 
-	'LBL_MODULE'                   => 'Module'                      , // TODO: Review
-	'LBL_ADVANCED_SHARING_RULES'   => 'Advanced Sharing Rules'      , // TODO: Review
-	'LBL_WITH_PERMISSIONS'         => 'With Permissions'            , // TODO: Review
-	'LBL_APPLY_NEW_SHARING_RULES'  => 'Apply New Sharing Rules'     , // TODO: Review
-	'LBL_READ'                     => 'Read'                        , // TODO: Review
-	'LBL_READ_WRITE'               => 'Read and Write'              , // TODO: Review
-	'LBL_CUSTOM_ACCESS_MESG'       => 'No Custom Access Rules defined', // TODO: Review
-	'SINGLE_Groups'                => 'Group'                       , // TODO: Review
-	'SINGLE_Roles'                 => 'Role'                        , // TODO: Review
-	'SINGLE_RoleAndSubordinates'   => 'RoleAndSubordinate'          , // TODO: Review
+	'Accounts'                     => 'Байгууллага ба Холбоо барих', 
+	'LBL_ADD_CUSTOM_RULE'          => 'Захиалгат эрхийн дүрэм нэмэх', 
+	'Read Only'                    => 'Зөвхөн унших', 
+	'Read Write'                   => 'Унших + Бичих', 
+	'LBL_ADD_CUSTOM_RULE_TO'       => 'Дүрмийг дараахд нэмэх', 
+	'LBL_CAN_ACCESSED_BY'          => 'Хандаж болно', 
+	'LBL_PRIVILEGES'               => 'Эрхүүд', 
+	'LBL_SHARING_RULE'             => 'Хуваалцах дүрэм', 
+	'LBL_RULE_NO'                  => 'Дүрмийн №', 
+	'LBL_MODULE'                   => 'Модуль', 
+	'LBL_ADVANCED_SHARING_RULES'   => 'Нарийвчилсан хуваалцах дүрмүүд', 
+	'LBL_WITH_PERMISSIONS'         => 'Эрхтэйгээр', 
+	'LBL_APPLY_NEW_SHARING_RULES'  => 'Шинэ хуваалцах дүрмүүдийг хэрэгжүүлэх', 
+	'LBL_READ'                     => 'Унших', 
+	'LBL_READ_WRITE'               => 'Унших ба Бичих', 
+	'LBL_CUSTOM_ACCESS_MESG'       => 'Захиалгат хандалтын дүрэм тодорхойлогдоогүй байна', 
+	'SINGLE_Groups'                => 'Бүлэг', 
+	'SINGLE_Roles'                 => 'Эрх', 
+	'SINGLE_RoleAndSubordinates'   => 'Эрх ба Дагалдагч', 
 );
 $jsLanguageStrings = array(
-	'JS_CUSTOM_RULE_SAVED_SUCCESSFULLY' => 'Custom Sharing Rule Saved Successfully', // TODO: Review
-	'JS_SELECT_ANY_OTHER_ACCESSING_USER' => 'Select any other accessing user', // TODO: Review
-	'JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY' => 'New Sharing Rules Applied Successfully', // TODO: Review
-	'JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE' => 'Opportunities, Tickets, Quotes, Sales Orders & Invoices access must be set to Private when the Organisation access is set to Private', // TODO: Review
+	'JS_CUSTOM_RULE_SAVED_SUCCESSFULLY' => 'Захиалгат хуваалцах дүрэм амжилттай хадгалагдлаа', 
+	'JS_SELECT_ANY_OTHER_ACCESSING_USER' => 'Өөр хэрэглэгч сонгоно уу', 
+	'JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY' => 'Шинэ хуваалцах дүрмүүд амжилттай хэрэгжлээ', 
+	'JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE' => 'Байгууллагын хандалтыг "Хувийн" болгосон тохиолдолд Боломжууд, Тасалбарууд, Ишлэлүүд, Борлуулалтын захиалгууд болон Нэхэмжлэлүүдийн хандалтыг мөн "Хувийн" болгох шаардлагатай', // TODO: Review
 );

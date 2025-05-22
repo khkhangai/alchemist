@@ -8,20 +8,19 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'SINGLE_ModComments' => 'Comment',
-	'LBL_RECORDS_LIST' => 'Comments List',
+    // Үндсэн текстүүд
+    'SINGLE_ModComments' => 'Сэтгэгдэл',
+    'LBL_RECORDS_LIST' => 'Сэтгэгдлийн жагсаалт',
 
-	// Blocks
-	'LBL_MODCOMMENTS_INFORMATION' => 'Comments',
-	'LBL_OTHER_INFORMATION' => 'Other Information',
+    // Блокууд
+    'LBL_MODCOMMENTS_INFORMATION' => 'Сэтгэгдлүүд',
+    'LBL_OTHER_INFORMATION' => 'Бусад мэдээлэл',
 
-	'LBL_ADDING_COMMENT' => 'Adding Comment',
-	'LBL_WRITE_YOUR_COMMENT_HERE' => 'Enter Comments here',
-	
-	//Field Labels
-	'Comment' => 'Comment',
-	'Creator' => 'Creator',
-	'Related To Comments' => 'Related To',
-	
+    'LBL_ADDING_COMMENT' => 'Сэтгэгдэл нэмэх',
+    'LBL_WRITE_YOUR_COMMENT_HERE' => 'Энд сэтгэгдлээ бичнэ үү',
+
+    // Талбарын шошго
+    'Comment' => 'Сэтгэгдэл',
+    'Creator' => 'Үүсгэгч',
+    'Related To Comments' => 'Холбогдох',
 );

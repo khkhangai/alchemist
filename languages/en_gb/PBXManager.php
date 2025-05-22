@@ -8,33 +8,30 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'Asterisk'                     => 'Asterisk'                    , 
-	'PBXManager'                   => 'PBX Manager'                 , 
-	'SINGLE_PBXManager'            => 'PBX Manager'                 , 
-	'LBL_CALL_INFORMATION'         => 'Call Details'                , 
-	'Call From'                    => 'Call from'                   , 
-	'Call To'                      => 'Call to'                     , 
-	'Time Of Call'                 => 'Time of call'                , 
-	'PBXManager ID'                => 'PBX Manager ID'              , 
+    'Asterisk'                     => 'Asterisk',
+    'PBXManager'                   => 'PBX менежер',
+    'SINGLE_PBXManager'            => 'Дуудлагын бичлэг',
+    'LBL_CALL_INFORMATION'         => 'Дуудлагын мэдээлэл',
+    'Call From'                    => 'Хаанаас дуудсан',
+    'Call To'                      => 'Хэнд дуудсан',
+    'Time Of Call'                 => 'Дуудлагын цаг',
+    'PBXManager ID'                => 'PBX менежер ID',
 
-    //Blocks
-    'LBL_PBXMANAGER_INFORMATION' => 'Call Details',
-    'LBL_CUSTOM_INFORMATION'=>'Custom Information',
-    
-    // list view settings links
-    'LBL_SERVER_CONFIGURATION' => 'Provider Configuration',
-    
-    //Detail view header title
-    'LBL_CALL_FROM' => 'Call From',
-    'LBL_CALL_TO' => 'Call To',
-    
-    //Incoming call pop-up 
-    'LBL_HIDDEN' => '(HIDDEN)', 
-  
-    // Fields
-    'Total Duration' => 'Duration (min)',
-    'Recording URL' => 'Recording',
-    
-    'SINGLE_PBXManager' => 'Call Record' ,
+    // Блокууд
+    'LBL_PBXMANAGER_INFORMATION'   => 'Дуудлагын дэлгэрэнгүй',
+    'LBL_CUSTOM_INFORMATION'       => 'Хэрэглэгчийн мэдээлэл',
 
+    // Жагсаалтын харагдацын тохиргоо
+    'LBL_SERVER_CONFIGURATION'     => 'Үйлчилгээ үзүүлэгчийн тохиргоо',
+
+    // Дэлгэрэнгүй харагдацын гарчиг
+    'LBL_CALL_FROM'                => 'Хаанаас дуудсан',
+    'LBL_CALL_TO'                  => 'Хэнд дуудсан',
+
+    // Ирж буй дуудлагын цонх
+    'LBL_HIDDEN'                   => '(НУУЦ)',
+
+    // Талбарууд
+    'Total Duration'               => 'Нийт хугацаа (мин)',
+    'Recording URL'                => 'Бичлэгийн холбоос',
 );

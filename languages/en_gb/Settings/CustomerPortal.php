@@ -8,25 +8,26 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'CustomerPortal' => 'Customer Portal',
-	'LBL_PORTAL_DESCRIPTION' => 'Setup Privileges of Portal User',
+	'CustomerPortal' => 'Харилцагчийн Портал',
+	'LBL_PORTAL_DESCRIPTION' => 'Портал хэрэглэгчийн эрхийг тохируулах',
 
-	'LBL_PRIVILEGES' => 'Privileges',
-	'LBL_DEFAULT_ASSIGNEE' => 'Default Assignee',
-	'LBL_PORTAL_URL' => 'Portal URL',
+	'LBL_PRIVILEGES' => 'Эрхүүд',
+	'LBL_DEFAULT_ASSIGNEE' => 'Анхны хариуцах хэрэглэгч',
+	'LBL_PORTAL_URL' => 'Порталын хаяг',
 
 	//Fields
-	'LBL_MODULE_NAME' => 'Module Name',
-	'LBL_ENABLE_MODULE' => 'Enable Module',
-	'LBL_VIEW_ALL_RECORDS' => 'See records across Organisation',
+	'LBL_MODULE_NAME' => 'Модулийн нэр',
+	'LBL_ENABLE_MODULE' => 'Модулийг идэвхжүүлэх',
+	'LBL_VIEW_ALL_RECORDS' => 'Бүх байгууллагын бичлэгийг харах',
 
 	//Messages
-	'LBL_PREVILEGES_MESSAGE' => "This Role's privileges will be applied to the Portal User.",
-	'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Tickets will be assigned to the selected assignee by the default Group/User from the Customer Portal.',
-	'LBL_PORTAL_URL_MESSAGE' => 'This is the URL for the Portal where your Contacts can login to submit/track tickets, access knowledge base and more. Contacts will be sent the login details when Portal access is enabled from Contact details page.',
-	'LBL_DRAG_AND_DROP_MESSAGE' => 'Drag and Drop modules to reorder in the Customer Portal',
+	'LBL_PREVILEGES_MESSAGE' => 'Энэ үүргийн эрхүүд нь порталын хэрэглэгчид үйлчлэх болно.',
+	'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Харилцагчийн портал дээрээс ирсэн тасалбарууд сонгогдсон бүлэг/хэрэглэгчид автоматаар хуваарилагдана.',
+	'LBL_PORTAL_URL_MESSAGE' => 'Энэ бол таны харилцагчид тасалбар илгээх, хянах, мэдлэгийн санг үзэх гэх мэт боломжуудтайгаар нэвтрэх порталын хаяг юм. Порталын нэвтрэх эрхийг идэвхжүүлсэн тохиолдолд харилцагчид нэвтрэх мэдээлэл илгээгдэх болно.',
+	'LBL_DRAG_AND_DROP_MESSAGE' => 'Порталын дотор модулиудын дарааллыг өөрчлөхийн тулд чирж байрлуулна уу',
 );
 
+
 $jsLanguageStrings = array(
-	'JS_PORTAL_INFO_SAVED' => 'Customer Portal Settings Saved',
+	'JS_PORTAL_INFO_SAVED' => 'Харилцагчийн порталын тохиргоо хадгалагдлаа',
 );

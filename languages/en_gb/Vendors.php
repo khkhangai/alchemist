@@ -8,28 +8,31 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'Vendors'                      => 'Vendors'                     , 
-	'SINGLE_Vendors'               => 'Vendor'                      , 
-	'LBL_ADD_RECORD'               => 'Add Vendor'                  , 
-	'LBL_RECORDS_LIST'             => 'Vendors List'                , 
-	'LBL_VENDOR_INFORMATION'       => 'Vendor Information:'         , 
-	'LBL_VENDOR_ADDRESS_INFORMATION' => 'Address Information:'        , 
-	'Vendor Name'                  => 'Vendor Name'                 , 
-	'Vendor No'                    => 'Vendor No.'                  , 
-	'Website'                      => 'Website'                     , 
-	'GL Account'                   => 'GL Account'                  , 
-	'300-Sales-Software'           => '300-Sales-Software'          , 
-	'301-Sales-Hardware'           => '301-Sales-Hardware'          , 
-	'302-Rental-Income'            => '302-Rental-Income'           , 
-	'303-Interest-Income'          => '303-Interest-Income'         , 
-	'304-Sales-Software-Support'   => '304-Sales-Software-Support'  , 
-	'305-Sales Other'              => '305-Sales Other'             , 
-	'306-Internet Sales'           => '306-Internet Sales'          , 
-	'307-Service-Hardware Labor'   => '307-Service-Hardware Labor'  , 
-	'308-Sales-Books'              => '308-Sales-Books'             , 
+	'Vendors'                      => 'Нийлүүлэгчид',
+	'SINGLE_Vendors'               => 'Нийлүүлэгч',
+	'LBL_ADD_RECORD'               => 'Нийлүүлэгч нэмэх',
+	'LBL_RECORDS_LIST'             => 'Нийлүүлэгчдийн жагсаалт',
+	'LBL_VENDOR_INFORMATION'       => 'Нийлүүлэгчийн мэдээлэл:',
+	'LBL_VENDOR_ADDRESS_INFORMATION' => 'Хаягийн мэдээлэл:',
+	'Vendor Name'                  => 'Нийлүүлэгчийн нэр',
+	'Vendor No'                    => 'Нийлүүлэгчийн дугаар',
+	'Website'                      => 'Вэбсайт',
+	'GL Account'                   => 'GL данс',
+
+	// Санхүүгийн ангиллууд
+	'300-Sales-Software'           => '300-Борлуулалт-Программ хангамж',
+	'301-Sales-Hardware'           => '301-Борлуулалт-Тоног төхөөрөмж',
+	'302-Rental-Income'            => '302-Түрээсийн орлого',
+	'303-Interest-Income'          => '303-Хүүгийн орлого',
+	'304-Sales-Software-Support'   => '304-Программ хангамжийн дэмжлэг',
+	'305-Sales Other'              => '305-Бусад борлуулалт',
+	'306-Internet Sales'           => '306-Интернет борлуулалт',
+	'307-Service-Hardware Labor'   => '307-Тоног төхөөрөмжийн үйлчилгээний хөдөлмөр',
+	'308-Sales-Books'              => '308-Номын борлуулалт',
 );
+
 $jsLanguageStrings = array(
-	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Are you sure you want to delete?', 
-	'LBL_DELETE_CONFIRMATION'      => 'Deleting this Vendor will remove its related PurchaseOrders. Are you sure you want to delete this Vendor?', 
-	'LBL_MASS_DELETE_CONFIRMATION' => 'Deleting Vendors will remove their related Purchase Orders. Are you sure you want to delete the selected records?', 
+	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Та устгахдаа итгэлтэй байна уу?',
+	'LBL_DELETE_CONFIRMATION' => 'Энэ нийлүүлэгчийг устгавал түүнтэй холбоотой худалдан авалтын захиалгууд мөн устах болно. Та энэ нийлүүлэгчийг устгахдаа итгэлтэй байна уу?',
+	'LBL_MASS_DELETE_CONFIRMATION' => 'Нийлүүлэгчдийг устгавал тэдгээртэй холбоотой худалдан авалтын захиалгууд мөн устах болно. Та сонгосон бичлэгүүдийг устгахдаа итгэлтэй байна уу?',
 );

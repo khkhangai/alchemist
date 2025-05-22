@@ -9,23 +9,24 @@
  * All Rights Reserved.
  * *********************************************************************************** */
 $languageStrings = array(
-	// Basic Strings
-	'ServiceContracts' => 'Service Contracts',
-	'Service Contracts' => 'Service Contracts',
-	'SINGLE_ServiceContracts' => 'Service Contract',
-	'LBL_ADD_RECORD' => 'Add Service Contract',
-	'LBL_RECORDS_LIST' => 'Service Contracts List',
-	// Blocks
-	'LBL_SERVICE_CONTRACT_INFORMATION' => 'Service Contract Details',
-	
-	//Field Labels
-	'Contract No' => 'Contract No.',
-	'Start Date' => 'Start Date',
-	'End Date' => 'End Date',
-	'Tracking Unit' => 'Tracking Unit',
-	'Total Units' => 'Total Units',
-	'Used Units' => 'Used Units',
-	'Progress'=> 'Progress',
-	'Planned Duration' => 'Planned Duration (in days)',
-	'Actual Duration' => 'Actual Duration (in days)',
+    // Үндсэн нэршлүүд
+    'ServiceContracts' => 'Үйлчилгээний гэрээнүүд',
+    'Service Contracts' => 'Үйлчилгээний гэрээнүүд',
+    'SINGLE_ServiceContracts' => 'Үйлчилгээний гэрээ',
+    'LBL_ADD_RECORD' => 'Үйлчилгээний гэрээ нэмэх',
+    'LBL_RECORDS_LIST' => 'Гэрээнүүдийн жагсаалт',
+
+    // Блокууд
+    'LBL_SERVICE_CONTRACT_INFORMATION' => 'Гэрээний дэлгэрэнгүй мэдээлэл',
+
+    // Талбарууд
+    'Contract No' => 'Гэрээний дугаар',
+    'Start Date' => 'Эхлэх огноо',
+    'End Date' => 'Дуусах огноо',
+    'Tracking Unit' => 'Хянах нэгж',
+    'Total Units' => 'Нийт нэгж',
+    'Used Units' => 'Ашигласан нэгж',
+    'Progress' => 'Явц',
+    'Planned Duration' => 'Төлөвлөсөн хугацаа (өдрөөр)',
+    'Actual Duration' => 'Бодит хугацаа (өдрөөр)',
 );

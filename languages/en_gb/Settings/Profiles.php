@@ -8,41 +8,41 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'Profiles'                     => 'Profiles'                    , 
-	'SINGLE_Profiles'              => 'Profile'                     , 
-	'LBL_ADD_RECORD'               => 'Add Profile'                 , 
-	'LBL_CREATE_PROFILE'           => 'Create Profile'              , // TODO: Review
-	'LBL_PROFILE_NAME'             => 'Profile Name'                , // TODO: Review
-	'LBL_DESCRIPTION'              => 'Description'                 , // TODO: Review
-	'LBL_EDIT_PRIVILIGES_FOR_THIS_PROFILE' => 'Edit priviliges for this Profile', // TODO: Review
-	'LBL_MODULES'                  => 'Modules'                     , // TODO: Review
-	'LBL_PROFILE_VIEW'             => 'Profile View'                , // TODO: Review
-	'LBL_FIELDS'                   => 'Fields'                      , // TODO: Review
-	'LBL_TOOLS'                    => 'Tools'                       , // TODO: Review
-	'LBL_FIELD_AND_TOOL_PRVILIGES' => 'Field and Tool Privileges'   , // TODO: Review
-	'LBL_EDIT_RECORD'              => 'Edit'                        , // TODO: Review
-	'LBL_DUPLICATE_RECORD'         => 'Duplicate'                   , // TODO: Review
-	'LBL_DELETE_RECORD'            => 'Delete'                      , // TODO: Review
-	'LBL_VIEW_PRVILIGE'            => 'View'                        , 
-	'LBL_EDIT_PRVILIGE'            => 'Create/Edit'                 , 
-	'LBL_DELETE_PRVILIGE'          => 'Delete'                      , 
-	'LBL_INIVISIBLE'               => 'Invisible'                   , // TODO: Review
-	'LBL_READ_ONLY'                => 'Read only'                   , // TODO: Review
-	'LBL_WRITE'                    => 'Write'                       , // TODO: Review
-	'LBL_DELETE_PROFILE'           => 'Delete Profile'              , // TODO: Review
-	'LBL_TRANSFER_ROLES_TO_PROFILE' => 'Transfer Roles to Profile'   , // TODO: Review
-	'LBL_PROFILES'                 => 'Profiles'                    , // TODO: Review
-	'LBL_CHOOSE_PROFILES'          => 'Choose Profiles'             , // TODO: Review
-    
-        'Import' => 'Import',
-        'Export' => 'Export',
-	'Merge'  => 'Merge',
-        'ConvertLead' => 'ConvertLead',
-        'DuplicatesHandling' => 'DuplicatesHandling',
-        'ReceiveIncomingCalls' => 'ReceiveIncomingCalls',
-        'MakeOutgoingCalls' => 'MakeOutgoingCalls',
-        'Print' => 'Print',
+	'Profiles'                     => 'Эрхийн багцууд',
+	'SINGLE_Profiles'              => 'Эрхийн багц',
+	'LBL_ADD_RECORD'               => 'Шинэ эрхийн багц нэмэх',
+	'LBL_CREATE_PROFILE'           => 'Эрхийн багц үүсгэх',
+	'LBL_PROFILE_NAME'             => 'Эрхийн багцын нэр',
+	'LBL_DESCRIPTION'              => 'Тайлбар',
+	'LBL_EDIT_PRIVILIGES_FOR_THIS_PROFILE' => 'Энэ эрхийн багцын эрхүүдийг засах',
+	'LBL_MODULES'                  => 'Модулиуд',
+	'LBL_PROFILE_VIEW'             => 'Эрхийн багцын харагдац',
+	'LBL_FIELDS'                   => 'Талбарууд',
+	'LBL_TOOLS'                    => 'Хэрэгслүүд',
+	'LBL_FIELD_AND_TOOL_PRVILIGES' => 'Талбар ба хэрэгслийн эрхүүд',
+	'LBL_EDIT_RECORD'              => 'Засах',
+	'LBL_DUPLICATE_RECORD'         => 'Хуулбарлах',
+	'LBL_DELETE_RECORD'            => 'Устгах',
+	'LBL_VIEW_PRVILIGE'            => 'Харах эрх',
+	'LBL_EDIT_PRVILIGE'            => 'Үүсгэх / Засах эрх',
+	'LBL_DELETE_PRVILIGE'          => 'Устгах эрх',
+	'LBL_INIVISIBLE'               => 'Харагдахгүй',
+	'LBL_READ_ONLY'                => 'Зөвхөн унших',
+	'LBL_WRITE'                    => 'Бичих',
+	'LBL_DELETE_PROFILE'           => 'Эрхийн багцыг устгах',
+	'LBL_TRANSFER_ROLES_TO_PROFILE' => 'Дүрүүдийг эрхийн багц руу шилжүүлэх',
+	'LBL_PROFILES'                 => 'Эрхийн багцууд',
+	'LBL_CHOOSE_PROFILES'          => 'Эрхийн багцуудыг сонгох',
+
+	'Import' => 'Импортлох',
+	'Export' => 'Экспортлох',
+	'Merge'  => 'Нэгтгэх',
+	'ConvertLead' => 'Харилцагч болгон хувиргах',
+	'DuplicatesHandling' => 'Давхардлыг зохицуулах',
+	'ReceiveIncomingCalls' => 'Ирж буй дуудлага хүлээн авах',
+	'MakeOutgoingCalls' => 'Гадагш дуудлага хийх',
+	'Print' => 'Хэвлэх',
 );
 $jsLanguageStrings = array(
-	'JS_RECORD_DELETED_SUCCESSFULLY' => 'Profile deleted successfully', // TODO: Review
+	'JS_RECORD_DELETED_SUCCESSFULLY' => 'Эрхийн багц амжилттай устгагдлаа',
 );

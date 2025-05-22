@@ -8,67 +8,67 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'SINGLE_Project' => 'Project',
-	'LBL_ADD_RECORD' => 'Add Project',
-	'LBL_RECORDS_LIST' => 'Projects List',
+    // Үндсэн текстүүд
+    'SINGLE_Project' => 'Төсөл',
+    'LBL_ADD_RECORD' => 'Төсөл нэмэх',
+    'LBL_RECORDS_LIST' => 'Төслийн жагсаалт',
 
-	// Blocks
-	'LBL_PROJECT_INFORMATION' => 'Project Details',
+    // Блокууд
+    'LBL_PROJECT_INFORMATION' => 'Төслийн дэлгэрэнгүй',
 
-	//Field Labels
-	'Project Name' => 'Project Name',
-	'Start Date' => 'Start Date',
-	'Target End Date' => 'Target End Date',
-	'Actual End Date' => 'Actual End Date',
-	'Project No' => 'Project No.',
-	'Target Budget' => 'Target Budget',
-	'Project Url' => 'Project URL',
-	'Progress' => 'Progress',
-        'LBL_MILESTONES_LIST'          => 'Milestones List'             , 
-        'LBL_TASKS_HIGH'               => 'High Priority'               , 
-        'LBL_TASKS_NORMAL'             => 'Normal Priority'             , 
-        'LBL_TASKS_LOW'                => 'Low Priority'                , 
-        'LBL_TASKS_OTHER'              => 'Other Priorities'            , 
-        'LBL_SELECT_PROGRESS'          => 'Select Progress'             , 
+    // Талбарууд
+    'Project Name' => 'Төслийн нэр',
+    'Start Date' => 'Эхлэх огноо',
+    'Target End Date' => 'Төгсөх зорилтот огноо',
+    'Actual End Date' => 'Бодит дуусах огноо',
+    'Project No' => 'Төслийн дугаар',
+    'Target Budget' => 'Төсөвлсөн зардал',
+    'Project Url' => 'Төслийн холбоос',
+    'Progress' => 'Явц',
+    'LBL_MILESTONES_LIST' => 'Гол амжилтуудын жагсаалт',
+    'LBL_TASKS_HIGH' => 'Өндөр чухал',
+    'LBL_TASKS_NORMAL' => 'Энгийн чухал',
+    'LBL_TASKS_LOW' => 'Бага чухал',
+    'LBL_TASKS_OTHER' => 'Бусад ангилал',
+    'LBL_SELECT_PROGRESS' => 'Явц сонгох',
 
-	//Summary Information
-	'LBL_TASKS_OPEN' => 'Tasks Open',
-	'LBL_TASKS_DUE' => 'Tasks Due',
-	'LBL_TASKS_COMPLETED' => 'Tasks Completed',
-	'LBL_PEOPLE' => 'People',
+    // Хураангуй мэдээлэл
+    'LBL_TASKS_OPEN' => 'Нээлттэй даалгавар',
+    'LBL_TASKS_DUE' => 'Хугацаа хэтэрсэн даалгавар',
+    'LBL_TASKS_COMPLETED' => 'Гүйцэтгэсэн даалгавар',
+    'LBL_PEOPLE' => 'Холбогдох хүмүүс',
 
-	//Related List
-	'LBL_CHARTS' => 'Charts',
-	'LBL_TASKS_LIST' => 'Tasks List',
-	'LBL_MILESTONES' => 'Milestones',
-	'LBL_TASKS' => 'Tasks',
-	'LBL_STATUS_IS' => 'Status is',
-	'LBL_STATUS' => 'Status',
-	'LBL_TICKET_PRIORITY' => 'Priority',
-	'LBL_MORE' => 'More',
+    // Холбогдох жагсаалтууд
+    'LBL_CHARTS' => 'Графикууд',
+    'LBL_TASKS_LIST' => 'Даалгаврын жагсаалт',
+    'LBL_MILESTONES' => 'Гол амжилтууд',
+    'LBL_TASKS' => 'Даалгаврууд',
+    'LBL_STATUS_IS' => 'Төлөв нь',
+    'LBL_STATUS' => 'Төлөв',
+    'LBL_TICKET_PRIORITY' => 'Чухал байдал',
+    'LBL_MORE' => 'Илүү',
 
-	//Summary View Widgets
-	'LBL_DOWNLOAD_FILE' => 'Download File',
-	
-	//picklist values
-	'prospecting' => 'Prospecting',
-    'in progress' => 'In Progress',
-    'initiated' => 'Initiated',
-	'waiting for feedback' => 'Waiting for Feedback',
-    'on hold' => 'On Hold',
-    'archived' => 'Archived',
-    'completed' => 'Completed',
-    'delivered' => 'Delivered',
-	'administrative' => 'Administrative',
-    'operative' => 'Operative',
-    'other' => 'Other',
-    'low' => 'Low',
-    'normal' => 'Normal',
-    'high' => 'High',
+    // Хураангуй виджет
+    'LBL_DOWNLOAD_FILE' => 'Файл татах',
+
+    // Сонголтын утгууд (Picklist values)
+    'prospecting' => 'Шинжилгээ хийж байна',
+    'in progress' => 'Явагдаж байна',
+    'initiated' => 'Эхлүүлсэн',
+    'waiting for feedback' => 'Санал хүлээж байна',
+    'on hold' => 'Хүлээгдэж байна',
+    'archived' => 'Архивлагдсан',
+    'completed' => 'Дууссан',
+    'delivered' => 'Хүргэгдсэн',
+    'administrative' => 'Удирдлагын',
+    'operative' => 'Үйл ажиллагааны',
+    'other' => 'Бусад',
+    'low' => 'Бага',
+    'normal' => 'Энгийн',
+    'high' => 'Өндөр',
 );
 
 $jsLanguageStrings = array(
-    'JS_LBL_SELECT_STATUS' => 'Select Status',
-    'JS_LBL_SELECT_PROGRESS' => 'Select Progress',
+    'JS_LBL_SELECT_STATUS' => 'Төлөв сонгоно уу',
+    'JS_LBL_SELECT_PROGRESS' => 'Явц сонгоно уу',
 );

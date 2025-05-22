@@ -8,17 +8,17 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Add Email Template',
-	'SINGLE_EmailTemplates' => 'Email Template',
-	'LBL_EMAIL_TEMPLATES'=> 'Email Templates',
-	'LBL_EMAIL_TEMPLATE' => 'Email Template',
-	
-	'LBL_TEMPLATE_NAME' => 'Template name',
-	'LBL_DESCRIPTION' => 'Description',
-	'LBL_SUBJECT' => 'Subject',
-	'LBL_GENERAL_FIELDS' => 'General Fields',
-	'LBL_SELECT_FIELD_TYPE' => 'Select Field Type',
-	
-	'LBL_EMAIL_TEMPLATE_DESCRIPTION'=>'Manage templates for E-Mail module',
-	
+    'LBL_ADD_RECORD'              => 'И-мэйл загвар нэмэх',
+    'SINGLE_EmailTemplates'       => 'И-мэйл загвар',
+    'LBL_EMAIL_TEMPLATES'         => 'И-мэйл загварууд',
+    'LBL_EMAIL_TEMPLATE'          => 'И-мэйл загвар',
+
+    'LBL_TEMPLATE_NAME'           => 'Загварын нэр',
+    'LBL_DESCRIPTION'             => 'Тайлбар',
+    'LBL_SUBJECT'                 => 'Гарчиг',
+    'LBL_GENERAL_FIELDS'          => 'Ерөнхий талбарууд',
+    'LBL_SELECT_FIELD_TYPE'       => 'Талбарын төрөл сонгох',
+
+    'LBL_EMAIL_TEMPLATE_DESCRIPTION' => 'И-мэйл модульд зориулсан загваруудыг удирдах',
 );
+

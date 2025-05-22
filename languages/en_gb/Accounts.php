@@ -8,8 +8,8 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-    'Accounts'                     => 'Харилцагч',
-    'SINGLE_Accounts'              => 'Харилцагч',
+    'Accounts'                     => 'Харилцагчид',
+    'SINGLE_Accounts'              => 'харилцагч',
     'LBL_ADD_RECORD'               => 'Харилцагч нэмэх',
     'LBL_RECORDS_LIST'             => 'Харилцагч нар',
     'LBL_ACCOUNT_INFORMATION'      => 'Ерөнхий мэдээлэл',

@@ -8,37 +8,34 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'Services' => 'Services',
-	'SINGLE_Services' => 'Service',
-	'LBL_ADD_RECORD' => 'Add Service',
-	'LBL_RECORDS_LIST' => 'Services List',
+    // Үндсэн нэршлүүд
+    'Services' => 'Сервис үйлчилгээ',
+    'SINGLE_Services' => 'Үйлчилгээ',
+    'LBL_ADD_RECORD' => 'Үйлчилгээ нэмэх',
+    'LBL_RECORDS_LIST' => 'Үйлчилгээний жагсаалт',
 
-	// Blocks
-	'LBL_SERVICE_INFORMATION' => 'Service Details',
-	
-	'LBL_MORE_CURRENCIES' => 'more currencies', 
-	'LBL_PRICES' => 'Service Prices',
-	'LBL_PRICE' => 'Price',
-	'LBL_RESET_PRICE' => 'Reset Price',
-	'LBL_RESET' => 'Reset',
-	
-	//Services popup of pricebook
-	'LBL_ADD_TO_PRICEBOOKS' => 'Add to PriceBooks',
+    // Блокууд
+    'LBL_SERVICE_INFORMATION' => 'Үйлчилгээний дэлгэрэнгүй',
 
-	//Field Labels
-	'Service Name'=>'Service Name',
-	'Service Active'=>'Active',
-	'Service Category'=>'Category',
-	'Service No'=>'Service Number',
-	'Owner'=>'Owner',
-	'No of Units'=>'Number of Units',
-	'Commission Rate'=>'Commission Rate',
-	'Price'=>'Price',
-	'Usage Unit'=>'Usage Unit',
-	'Tax Class'=>'Tax Class',
-	'Website'=>'Website',
-	
-	//Services popup of pricebook
-	'LBL_ADD_TO_PRICEBOOKS' => 'Add to PriceBooks',
+    'LBL_MORE_CURRENCIES' => 'бусад валютууд',
+    'LBL_PRICES' => 'Үнийн мэдээлэл',
+    'LBL_PRICE' => 'Үнэ',
+    'LBL_RESET_PRICE' => 'Үнийг дахин тохируулах',
+    'LBL_RESET' => 'Дахин тохируулах',
+
+    // PriceBook-тай холбоотой popup
+    'LBL_ADD_TO_PRICEBOOKS' => 'Үнийн жагсаалтад нэмэх',
+
+    // Талбарууд
+    'Service Name' => 'Үйлчилгээний нэр',
+    'Service Active' => 'Идэвхтэй эсэх',
+    'Service Category' => 'Ангилал',
+    'Service No' => 'Үйлчилгээний дугаар',
+    'Owner' => 'Эзэмшигч',
+    'No of Units' => 'Нэгжийн тоо',
+    'Commission Rate' => 'Шимтгэлийн хувь',
+    'Price' => 'Үнэ',
+    'Usage Unit' => 'Хэрэглээний нэгж',
+    'Tax Class' => 'Татварын төрөл',
+    'Website' => 'Вэбсайт',
 );

@@ -8,20 +8,21 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'SINGLE_ProjectMilestone' => 'Project Milestone',
-	'LBL_ADD_RECORD' => 'Add Project Milestone',
-	'LBL_RECORDS_LIST' => 'Project Milestones List',
+    // Үндсэн текстүүд
+    'SINGLE_ProjectMilestone' => 'Төслийн чухал үе шат',
+    'LBL_ADD_RECORD' => 'Төслийн үе шат нэмэх',
+    'LBL_RECORDS_LIST' => 'Үе шатны жагсаалт',
 
-	// Blocks
-	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Project Milestone Details',
-	
-	//Field Labels
-	'Project Milestone Name' => 'Project Milestone Name',
-	'Milestone Date' => 'Milestone Date',
-	'Project Milestone No' => 'Project Milestone No.',
-	
-	'administrative' => 'Administrative',
-    'operative' => 'Operative',
-    'other' => 'Other',
+    // Блокууд
+    'LBL_PROJECT_MILESTONE_INFORMATION' => 'Төслийн үе шатны дэлгэрэнгүй',
+
+    // Талбарууд
+    'Project Milestone Name' => 'Үе шатны нэр',
+    'Milestone Date' => 'Үе шатны огноо',
+    'Project Milestone No' => 'Үе шатны дугаар',
+
+    // Сонголтууд
+    'administrative' => 'Удирдлагын',
+    'operative' => 'Үйл ажиллагааны',
+    'other' => 'Бусад',
 );

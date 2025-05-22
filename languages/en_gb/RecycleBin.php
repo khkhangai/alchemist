@@ -8,20 +8,20 @@
  * All Rights Reserved.
  ************************************************************************************/
 
-$languageStrings = Array(
-	'RecycleBin' => 'Recycle Bin',
-	'LBL_SELECT_MODULE' => 'Select Module',
-	'LBL_EMPTY_RECYCLEBIN' => 'Empty Recycle Bin',
-	'LBL_RESTORE' => 'Restore',
-	'LBL_NO_PERMITTED_MODULES' => 'No permitted Modules available',
-	'LBL_RECORDS_LIST' => 'Recycle Bin List',
-	'LBL_NO_RECORDS_FOUND' => 'No records found to restore in Module',
+$languageStrings = array(
+    'RecycleBin' => 'Хогийн сав',
+    'LBL_SELECT_MODULE' => 'Модуль сонгох',
+    'LBL_EMPTY_RECYCLEBIN' => 'Хогийн савыг хоослох',
+    'LBL_RESTORE' => 'Сэргээх',
+    'LBL_NO_PERMITTED_MODULES' => 'Зөвшөөрөгдсөн модулиуд байхгүй байна',
+    'LBL_RECORDS_LIST' => 'Хогийн савны жагсаалт',
+    'LBL_NO_RECORDS_FOUND' => 'Энэ модульд сэргээх бичлэг олдсонгүй',
 );
 
 $jsLanguageStrings = array(
-	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Are you sure you want to permanently remove all the deleted records from your database?',
-	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Are you sure you want to restore the records?',
-	'JS_RESTORING_RECORDS' => 'Restoring records',
+    'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Бүх устгасан бичлэгийг өгөгдлийн сангаас бүрмөсөн устгах уу?',
+    'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Бичлэгүүдийг сэргээхдээ итгэлтэй байна уу?',
+    'JS_RESTORING_RECORDS' => 'Бичлэгүүдийг сэргээж байна...',
 );
 
 

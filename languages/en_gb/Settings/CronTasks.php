@@ -8,16 +8,16 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'CronTasks'                    => 'Scheduler'                   , // TODO: Review
-	'Id'                           => 'Id'                          , // TODO: Review
-	'Cron Job'                     => 'Cron Job'                    , // TODO: Review
-	'Frequency'                    => 'Frequency'                   , // TODO: Review
-	'Status'                       => 'Status'                      , // TODO: Review
-	'Last Start'                   => 'Last scan started'           , // TODO: Review
-	'Last End'                     => 'Last scan ended'             , // TODO: Review
-	'Sequence'                     => 'Sequence'                    , // TODO: Review
-	'LBL_COMPLETED'                => 'Completed'                   , // TODO: Review
-	'LBL_RUNNING'                  => 'Running'                     , // TODO: Review
-	'LBL_ACTIVE'                   => 'Active'                      , // TODO: Review
-	'LBL_INACTIVE'                 => 'Inactive'                    , // TODO: Review
+	'CronTasks'                    => 'Хуваарьт үүргүүд',
+	'Id'                           => 'Дугаар',
+	'Cron Job'                     => 'Крон үүрэг',
+	'Frequency'                    => 'Давтамж',
+	'Status'                       => 'Төлөв',
+	'Last Start'                   => 'Сүүлийн эхэлсэн хугацаа',
+	'Last End'                     => 'Сүүлийн дууссан хугацаа',
+	'Sequence'                     => 'Дараалал',
+	'LBL_COMPLETED'                => 'Дууссан',
+	'LBL_RUNNING'                  => 'Явагдаж байна',
+	'LBL_ACTIVE'                   => 'Идэвхтэй',
+	'LBL_INACTIVE'                 => 'Идэвхгүй',
 );

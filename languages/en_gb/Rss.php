@@ -9,22 +9,21 @@
  ************************************************************************************/
 
 $languageStrings = Array(
-    'LBL_RSS_FEED_SOURCES' => 'RSS Feed Sources',
-    'LBL_ADD_FEED_SOURCE' => 'Add Feed Source',
-    'LBL_FEEDS_LIST_FROM' => 'Feeds List From',
-    'LBL_SET_AS_DEFAULT' => 'Set As Default',
-    'LBL_SENDER' => 'Sender',
-    'LBL_FEED_SOURCE' => 'Feed Source',
-    'LBL_ENTER_FEED_SOURCE' => 'Enter Feed Source',  
-    'SINGLE_Rss' => 'RSS Feed',
+    'LBL_RSS_FEED_SOURCES' => 'RSS мэдээллийн эх үүсвэрүүд',
+    'LBL_ADD_FEED_SOURCE' => 'Эх үүсвэр нэмэх',
+    'LBL_FEEDS_LIST_FROM' => 'Мэдээллийн жагсаалт эх үүсвэрээс',
+    'LBL_SET_AS_DEFAULT' => 'Анхдагч болгох',
+    'LBL_SENDER' => 'Илгээгч',
+    'LBL_FEED_SOURCE' => 'Мэдээллийн эх үүсвэр',
+    'LBL_ENTER_FEED_SOURCE' => 'Мэдээллийн эх үүсвэр оруулах',
+    'SINGLE_Rss' => 'RSS мэдээ',
 );
+
 
 $jsLanguageStrings = array(
-	'JS_RSS_SUCCESSFULLY_SAVED' => 'RSS Successfully saved',
-    'JS_INVALID_RSS_URL' => 'Invalid RSS URL',
-    'JS_RSS_MADE_AS_DEFAULT' => 'RSS Made as Default',
-    
+    'JS_RSS_SUCCESSFULLY_SAVED' => 'RSS амжилттай хадгалагдлаа',
+    'JS_INVALID_RSS_URL' => 'Буруу RSS холбоос байна',
+    'JS_RSS_MADE_AS_DEFAULT' => 'RSS-г анхдагч болголоо',
 );
-
 
 ?>

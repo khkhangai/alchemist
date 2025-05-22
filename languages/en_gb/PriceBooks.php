@@ -8,15 +8,15 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'PriceBooks'                   => 'Price Books'                 , 
-	'SINGLE_PriceBooks'            => 'Price Book'                  , 
-	'LBL_ADD_RECORD'               => 'Add Price Book'              , 
-	'LBL_RECORDS_LIST'             => 'Price Books List'            , 
-	'LBL_PRICEBOOK_INFORMATION'    => 'Price Book Information:'     , 
-	'LBL_EDIT_LIST_PRICE'          => 'Edit List Price'             , 
-	'Price Book Name'              => 'Price Book Name'             , 
-	'PriceBook No'                 => 'Price Book No.'              , 
-	
-	'LBL_UNIT_PRICE' => 'Unit Price',
-	'LBL_ADD_TO' => 'Add to',
+    'PriceBooks'                   => 'Үнийн дэвтэр',
+    'SINGLE_PriceBooks'            => 'Үнийн дэвтэр',
+    'LBL_ADD_RECORD'               => 'Үнийн дэвтэр нэмэх',
+    'LBL_RECORDS_LIST'             => 'Үнийн дэвтэрийн жагсаалт',
+    'LBL_PRICEBOOK_INFORMATION'    => 'Үнийн дэвтрийн мэдээлэл:',
+    'LBL_EDIT_LIST_PRICE'          => 'Жагсаалтын үнийг засах',
+    'Price Book Name'              => 'Үнийн дэвтрийн нэр',
+    'PriceBook No'                 => 'Үнийн дэвтрийн дугаар',
+
+    'LBL_UNIT_PRICE'               => 'Нэгж үнэ',
+    'LBL_ADD_TO'                   => 'Нэмэх',
 );

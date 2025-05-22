@@ -9,7 +9,7 @@
  ************************************************************************************/
 $languageStrings = array(
     'Contacts'                     => 'Холбоо'                    , 
-    'SINGLE_Contacts'              => 'Холбоо'                           , 
+    'SINGLE_Contacts'              => 'холбоо'                           , 
     'LBL_ADD_RECORD'               => 'Холбоо нэмэх'                    , 
     'LBL_RECORDS_LIST'             => 'Холбооны жагсаалт'                , 
     'LBL_CONTACT_INFORMATION'      => 'Ерөнхий мэдээлэл'                , 

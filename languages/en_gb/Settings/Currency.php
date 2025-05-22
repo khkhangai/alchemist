@@ -8,17 +8,17 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD'               => 'Add Currency'                , // TODO: Review
-	'LBL_EDIT_CURRENCY'            => 'Edit Currency'               , // TODO: Review
-	'LBL_ADD_NEW_CURRENCY'         => 'Add New Currency'            , // TODO: Review
-	'LBL_CURRENCY_NAME'            => 'Currency Name'               , // TODO: Review
-	'LBL_CURRENCY_CODE'            => 'Currency Code'               , // TODO: Review
-	'LBL_CURRENCY_SYMBOL'          => 'Symbol'                      , // TODO: Review
-	'LBL_CONVERSION_RATE'          => 'Conversion Rate'             , // TODO: Review
-	'LBL_ENTER_CONVERSION_RATE'    => 'Enter Conversion Rate'       , // TODO: Review
-	'LBL_CURRENCY_STATUS_DESC'     => 'Enable checkbox to make currency Active', // TODO: Review
-	'LBL_TRANSFER_CURRENCY'        => 'Transfer Currency'           , // TODO: Review
-	'LBL_CURRENT_CURRENCY'         => 'Current Currency'            , // TODO: Review
+	'LBL_ADD_RECORD' => 'Валют нэмэх',
+    'LBL_EDIT_CURRENCY' => 'Валют засварлах',
+    'LBL_ADD_NEW_CURRENCY' => 'Шинэ валют нэмэх',
+    'LBL_CURRENCY_NAME' => 'Валютын нэр',
+    'LBL_CURRENCY_CODE' => 'Валютын код',
+    'LBL_CURRENCY_SYMBOL' => 'Символ',
+    'LBL_CONVERSION_RATE' => 'Ханшийн хувь',
+    'LBL_ENTER_CONVERSION_RATE' => 'Ханшийн хувь оруулах',
+    'LBL_CURRENCY_STATUS_DESC' => 'Валютыг идэвхжүүлэхийн тулд чагт тавина уу',
+    'LBL_TRANSFER_CURRENCY' => 'Валют шилжүүлэх',
+    'LBL_CURRENT_CURRENCY' => 'Одоогийн валют',
 	'Albania, Leke'                => 'Albania, Leke'               , // TODO: Review
 	'Argentina, Pesos'             => 'Argentina, Pesos'            , // TODO: Review
 	'Aruba, Guilders'              => 'Aruba, Guilders'             , // TODO: Review

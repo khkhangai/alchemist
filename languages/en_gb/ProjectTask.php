@@ -8,41 +8,47 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'SINGLE_ProjectTask' => 'Project Task',
-	'LBL_ADD_RECORD' => 'Add Project Task',
-	'LBL_RECORDS_LIST' => 'Project Task List',
+    // Үндсэн текстүүд
+    'SINGLE_ProjectTask' => 'Төслийн даалгавар',
+    'LBL_ADD_RECORD' => 'Төслийн даалгавар нэмэх',
+    'LBL_RECORDS_LIST' => 'Төслийн даалгаврын жагсаалт',
 
-	// Blocks
-	'LBL_PROJECT_TASK_INFORMATION' => 'Project Task Details',
-	'LBL_PROJECTS_LIST' => 'Projects List',
-	'LBL_TASKS_LIST' => 'Tasks List',
+    // Блокууд
+    'LBL_PROJECT_TASK_INFORMATION' => 'Даалгаврын дэлгэрэнгүй мэдээлэл',
+    'LBL_PROJECTS_LIST' => 'Төслийн жагсаалт',
+    'LBL_TASKS_LIST' => 'Даалгавруудын жагсаалт',
 
-	//Field Labels
-	'Project Task Name' => 'Project Task Name',
-    'Project Task No' => 'Project Task No',
-    'Project Task Number' => 'Project Task Number',
-	'Status' => 'Status',
-	'Priority' => 'Priority',
-    'Progress' => 'Progress',
-    'Type'=>'Type',
-    'Worked Hours'=>'Worked Hours',
-    'Start Date'=>'Start Date',
-    'End Date'=>'End Date',
-    'Related To' => 'Related To',
-    'administrative' => 'Administrative',
-    'operative' => 'Operative',
-    'other' => 'Other',
-    'low' => 'Low',
-    'normal' => 'Normal',
-    'high' => 'High',
-    'Created Time' => 'Created Time',
-    'Modified Time' => 'Modified Time',
-    'description' => 'Description',
-	'Assigned To' => 'Assigned To',
-	'Open' => 'Open',
-	'In Progress' => 'In Progress',
-	'Completed' => 'Completed',
-	'Deferred' => 'Deferred',
-	'Canceled ' => 'Canceled',
+    // Талбарууд
+    'Project Task Name' => 'Даалгаврын нэр',
+    'Project Task No' => 'Даалгаврын дугаар',
+    'Project Task Number' => 'Даалгаврын дугаар',
+    'Status' => 'Төлөв',
+    'Priority' => 'Чухал байдал',
+    'Progress' => 'Явц',
+    'Type' => 'Төрөл',
+    'Worked Hours' => 'Ажилласан цаг',
+    'Start Date' => 'Эхлэх огноо',
+    'End Date' => 'Дуусах огноо',
+    'Related To' => 'Холбогдсон зүйл',
+
+    // Сонголтууд
+    'administrative' => 'Удирдлагын',
+    'operative' => 'Үйл ажиллагааны',
+    'other' => 'Бусад',
+    'low' => 'Бага',
+    'normal' => 'Энгийн',
+    'high' => 'Өндөр',
+
+    // Системийн мэдээлэл
+    'Created Time' => 'Үүсгэсэн огноо',
+    'Modified Time' => 'Засварласан огноо',
+    'description' => 'Тайлбар',
+    'Assigned To' => 'Хариуцсан хүн',
+
+    // Төлвийн утгууд
+    'Open' => 'Нээлттэй',
+    'In Progress' => 'Явагдаж байна',
+    'Completed' => 'Дууссан',
+    'Deferred' => 'Хойшлогдсон',
+    'Canceled ' => 'Цуцлагдсан',
 );

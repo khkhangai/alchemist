@@ -8,20 +8,21 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'SINGLE_Quotes'                => 'Quote'                       , 
-	'LBL_EXPORT_TO_PDF'            => 'Export To PDF'               , 
-	'LBL_SEND_MAIL_PDF'            => 'Send Email with PDF'         , // TODO: Review
-	'LBL_ADD_RECORD'               => 'Add Quote'                   , 
-	'LBL_RECORDS_LIST'             => 'Quotes List'                 , 
-	'LBL_QUOTE_INFORMATION'        => 'Quote Details'               , 
-	'Quote No'                     => 'Quote No.'                   , 
-	'Quote Stage'                  => 'Quote Stage'                 , 
-	'Valid Till'                   => 'Valid Until'                 , 
-	'Inventory Manager'            => 'Inventory Manager'           , 
-	'Accepted'                     => 'Accepted'                    , 
-	'Rejected'                     => 'Rejected'                    , 
-        //Taxes 
-        'VAT'                          => 'VAT', 
-        'Service'                      => 'Service', 
-        'Sales'                        => 'Sales'
+    'SINGLE_Quotes'                => 'Үнийн санал',
+    'LBL_EXPORT_TO_PDF'            => 'PDF рүү экспортлох',
+    'LBL_SEND_MAIL_PDF'            => 'PDF хавсралттай и-мэйл илгээх',
+    'LBL_ADD_RECORD'               => 'Үнийн санал нэмэх',
+    'LBL_RECORDS_LIST'             => 'Үнийн санал жагсаалт',
+    'LBL_QUOTE_INFORMATION'        => 'Үнийн саналын дэлгэрэнгүй',
+    'Quote No'                     => 'Үнийн саналын дугаар',
+    'Quote Stage'                  => 'Үнийн саналын шат',
+    'Valid Till'                   => 'Хүчинтэй хугацаа',
+    'Inventory Manager'            => 'Агуулахын менежер',
+    'Accepted'                     => 'Зөвшөөрсөн',
+    'Rejected'                     => 'Татгалзсан',
+
+    // Татварууд
+    'VAT'                          => 'НӨАТ',
+    'Service'                      => 'Үйлчилгээний татвар',
+    'Sales'                        => 'Борлуулалтын татвар',
 );

@@ -8,25 +8,25 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'LBL_IMPORT_MODULE'            => 'Import Module'               , // TODO: Review
-	'LBL_VTIGER_EXTENSION_STORE'   => 'vtiger CRM Extension Store'      , // TODO: Review
-	'LBL_PUBLISHER'                => 'Publisher'                   , // TODO: Review
-	'LBL_LICENSE'                  => 'License'                     , // TODO: Review
-	'LBL_PUBLISHED_ON'             => 'Published on'                , // TODO: Review
-	'LBL_INSTALL'                  => 'Install'                     , // TODO: Review
-	'LBL_UPGRADE'                  => 'Upgrade'                     , // TODO: Review
-	'LBL_VERSION'                  => 'Version'                     , // TODO: Review
-	'LBL_DECLINE'                  => 'Decline'                     , // TODO: Review
-	'LBL_ACCEPT_AND_INSTALL'       => 'Accept and Install'          , // TODO: Review
-	'LBL_ALREADY_EXISTS'           => 'Already Exists'              , // TODO: Review
-	'LBL_OK'                       => 'OK'                          , // TODO: Review
-	'LBL_EXTENSION_NOT_COMPATABLE' => 'Extension is not vtiger CRM compatible', // TODO: Review
-	'LBL_INVALID_FILE'             => 'Invalid File'                , // TODO: Review
-	'LBL_NO_LICENSE_PROVIDED'      => 'No License Provided'         , // TODO: Review
-	'LBL_INSTALLATION'             => 'Installation'                , // TODO: Review
-	'LBL_FAILED'                   => 'Failed'                      , // TODO: Review
-	'LBL_SUCCESSFULL'              => 'Successful'                 , // TODO: Review
-	'LBL_INSTALLATION_LOG'         => 'Installation Log'            , // TODO: Review
+	'LBL_IMPORT_MODULE'            => 'Модуль импортлох',
+    'LBL_VTIGER_EXTENSION_STORE'   => 'vtiger CRM өргөтгөлийн дэлгүүр',
+    'LBL_PUBLISHER'                => 'Нийтлэгч',
+    'LBL_LICENSE'                  => 'Лиценз',
+    'LBL_PUBLISHED_ON'             => 'Нийтэлсэн огноо',
+    'LBL_INSTALL'                  => 'Суулгах',
+    'LBL_UPGRADE'                  => 'Шинэчлэх',
+    'LBL_VERSION'                  => 'Хувилбар',
+    'LBL_DECLINE'                  => 'Татгалзах',
+    'LBL_ACCEPT_AND_INSTALL'       => 'Зөвшөөрч суулгах',
+    'LBL_ALREADY_EXISTS'           => 'Аль хэдийн байна',
+    'LBL_OK'                       => 'ОК',
+    'LBL_EXTENSION_NOT_COMPATABLE' => 'Өргөтгөл нь vtiger CRM-тэй нийцэхгүй байна',
+    'LBL_INVALID_FILE'             => 'Буруу файл',
+    'LBL_NO_LICENSE_PROVIDED'      => 'Лиценз олгогдоогүй',
+    'LBL_INSTALLATION'             => 'Суулгалт',
+    'LBL_FAILED'                   => 'Амжилтгүй',
+    'LBL_SUCCESSFULL'              => 'Амжилттай',
+    'LBL_INSTALLATION_LOG'         => 'Суулгалтын бүртгэл',
 
         //Extension Store translations
         'LBL_VTIGER_EXTENSION_STORE' => 'Vtiger Extension Store',
