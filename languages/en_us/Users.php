@@ -114,14 +114,14 @@ $languageStrings = array(
 	'Yahoo id' => 'Yahoo id',
     
          //Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
-        'Day starts at' => 'Day starts at', 
+        'Day starts at' => 'Ажлын цаг', 
 
         //User status 
         'Active' => 'Active', 
         'Inactive' => 'Inactive', 
 
         //Lead View settings 
-        'Today' => 'Today', 
+        'Today' => 'Өнөөдөр', 
         'Last 2 Days' => 'Last 2 Days', 
         'Last Week' => 'Last Week', 
 
