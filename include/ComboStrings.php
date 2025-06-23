@@ -297,7 +297,7 @@ $combo_strings = Array(
 			      'This Month'=>'This Month',
 			      'This Year'=>'This Year'
 		      ),
-'lead_view_dom' => Array('Today'=>'Today',
+'lead_view_dom' => Array('Today'=>'Өнөөдөр',
 			      'Last 2 Days'=>'Last 2 Days',
                               'Last Week'=>'Last Week'
 		      ),

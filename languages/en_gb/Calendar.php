@@ -91,7 +91,7 @@ $jsLanguageStrings = array(
 	
 	//Calendar view label translation
 	'LBL_MONTH' => 'Month',
-	'LBL_TODAY' => 'Today',
+	'LBL_TODAY' => 'Өнөөдөр',
 	'LBL_DAY' => 'Day',
 	'LBL_WEEK' => 'Week',
 	
