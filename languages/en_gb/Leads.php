@@ -8,9 +8,9 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'Leads'                        => 'Leads'                       , 
-	'SINGLE_Leads'                 => 'Lead'                        , 
-	'LBL_RECORDS_LIST'             => 'Leads List'                  , 
+	'Leads'                        => 'Удирдамж'                       , 
+	'SINGLE_Leads'                 => 'Удирдамж'                        , 
+	'LBL_RECORDS_LIST'             => 'Удирдамж листээр'                  , 
 	'LBL_ADD_RECORD'               => 'Add Lead'                    , 
 	'LBL_LEAD_INFORMATION'         => 'Lead Information'            , 
 	'Lead No'                      => 'Lead No.'                    , 

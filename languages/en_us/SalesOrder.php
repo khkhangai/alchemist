@@ -39,12 +39,12 @@ $languageStrings = array(
 	'Vendor Terms'=>'Vendor Terms',
     
         //Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
-        'Recurring Invoice Information' => 'Recurring Invoice Information', 
-        'Daily'=>'Daily', 
-        'Weekly'=>'Weekly', 
-        'Monthly'=>'Monthly', 
-        'Quarterly'=>'Quarterly', 
-        'Yearly'=>'Yearly', 
+        'Recurring Invoice Information' => 'Тогтмол нэхэмжлэхийн мэдээлэл', 
+        'Daily'=>'Өдөр бүр', 
+        'Weekly'=>'Долоо хоног бүр', 
+        'Monthly'=>'Сар бүр', 
+        'Quarterly'=>'Улирал бүр', 
+        'Yearly'=>'Жил бүр', 
 
         'Net 30 days' => 'Net 30 days', 
         'Net 45 days' => 'Net 45 days', 
