@@ -8,10 +8,10 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'SINGLE_Documents'             => 'Document'                    , 
-	'Documents'                    => 'Documents'                   , // TODO: Review
+	'SINGLE_Documents'             => 'Баримт'                    , 
+	'Documents'                    => 'Бичиг баримт'                   , // TODO: Review
 	'LBL_ADD_RECORD'               => 'Add Document'                , 
-	'LBL_RECORDS_LIST'             => 'Documents List'              , 
+	'LBL_RECORDS_LIST'             => 'Бичиг баримт листээр'              , 
 	'LBL_NOTE_INFORMATION'         => 'Basic Information'           , 
 	'LBL_FILE_INFORMATION'         => 'File Information'            , 
 	'LBL_DESCRIPTION'              => 'Description'                 , 

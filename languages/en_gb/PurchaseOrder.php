@@ -8,22 +8,22 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-	'SINGLE_PurchaseOrder'         => 'Purchase Order'              , 
-	'LBL_EXPORT_TO_PDF'            => 'Export To PDF'               , 
-	'LBL_SEND_MAIL_PDF'            => 'Send Email with PDF'         , // TODO: Review
-	'LBL_ADD_RECORD'               => 'Add Purchase Order'          , 
-	'LBL_RECORDS_LIST'             => 'Purchase Order List'         , 
-	'LBL_COPY_SHIPPING_ADDRESS'    => 'Copy Delivery Address'       , // TODO: Review
-	'LBL_COPY_BILLING_ADDRESS'     => 'Copy Invoice Address'        , // TODO: Review
-	'LBL_PO_INFORMATION'           => 'Purchase Order Information'  , 
-	'PurchaseOrder No'             => 'Purchase Order No.'          , 
-	'Requisition No'               => 'Requisition No.'             , 
-	'Tracking Number'              => 'Tracking Number'             , 
-	'Sales Commission'             => 'Sales Commission'            , 
-	'LBL_PAID'                     => 'Paid'                        , // TODO: Review
-	'LBL_BALANCE'                  => 'Balance'                     , // TODO: Review
-	'Received Shipment'            => 'Received Shipment'           , 
-        'LBL_LIST_PRICE'               => 'List Price',
-        'List Price'                   => 'List Price',
-        'LBL_COPY_COMPANY_ADDRESS' => 'Copy Company Address',
+	'SINGLE_PurchaseOrder'         => 'Худалдан авалт',
+	'LBL_EXPORT_TO_PDF'            => 'PDF болгон экспортлох',
+	'LBL_SEND_MAIL_PDF'            => 'PDF-тай имэйл илгээх',
+	'LBL_ADD_RECORD'               => 'Худалдан авалт нэмэх',
+	'LBL_RECORDS_LIST'             => 'Худалдан авалт листээр',
+	'LBL_COPY_SHIPPING_ADDRESS'    => 'Хүргэлтийн хаягийг хуулбарлах',
+	'LBL_COPY_BILLING_ADDRESS'     => 'Төлбөрийн хаягийг хуулбарлах',
+	'LBL_PO_INFORMATION'           => 'Бусад мэдээлэл',
+	'PurchaseOrder No'             => 'Дугаар',
+	'Requisition No'               => 'Хүсэлтийн дугаар',
+	'Tracking Number'              => 'Мөрдөх дугаар',
+	'Sales Commission'             => 'Борлуулалтын шимтгэл',
+	'LBL_PAID'                     => 'Төлөгдсөн',
+	'LBL_BALANCE'                  => 'Үлдэгдэл',
+	'Received Shipment'            => 'Хүлээн авсан',
+	'LBL_LIST_PRICE'               => 'Жагсаалтын үнэ',
+	'List Price'                   => 'Жагсаалтын үнэ',
+	'LBL_COPY_COMPANY_ADDRESS'     => 'Компанийн хаягийг хуулбарлах',
 );

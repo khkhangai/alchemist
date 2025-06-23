@@ -41,7 +41,7 @@
     <body>
         <div class="container-fluid login-container">
             <div class="row-fluid">
-                <div class="span3">
+                <div class="span2">
                     <div class="logo">
                         <img src="layouts/vlayout/skins/images/logo1.png">
                         <br />
@@ -60,73 +60,73 @@
                                     <div class="login-area">
                                         <div class="login-box" id="loginDiv">
                                             <div class="">
-                                                <h3 class="login-header">Login</h3>
+                                                <h3 class="login-header">Нэвтрэх</h3>
                                             </div>
                                             <form class="form-horizontal login-form" style="margin:0;" action="index.php?module=Users&action=Login" method="POST">
                                                 {if isset($smarty.request.error)}
                                                     <div class="alert alert-error">
-                                                        <p>Invalid username or password.</p>
+                                                        <p>Нууц үг буруу байна.</p>
                                                     </div>
                                                 {/if}
                                                 {if isset($smarty.request.fpError)}
                                                     <div class="alert alert-error">
-                                                        <p>Invalid Username or Email address.</p>
+                                                        <p>Цахим шуудан эсвэл хэрэглэгчийн нэр буруу байна.</p>
                                                     </div>
                                                 {/if}
                                                 {if isset($smarty.request.status)}
                                                     <div class="alert alert-success">
-                                                        <p>Mail has been sent to your inbox, please check your e-mail.</p>
+                                                        <p>Таны цахим шууданд нууц үгийг илгээлээ..</p>
                                                     </div>
                                                 {/if}
                                                 {if isset($smarty.request.statusError)}
                                                     <div class="alert alert-error">
-                                                        <p>Outgoing mail server was not configured.</p>
+                                                        <p>Мэйл серверт алдаа гарлаа.</p>
                                                     </div>
                                                 {/if}
                                                 <div class="control-group">
-                                                    <label class="control-label" for="username"><b>User name</b></label>
+                                                 <label class="control-label" for="user_name"><b>Нэвтрэх нэр</b></label>
                                                     <div class="controls">
-                                                        <input type="text" id="username" name="username" placeholder="Username">
+                                                        <input type="text" id="username" name="username" placeholder="User name">
                                                     </div>
                                                 </div>
                                                 <div class="control-group">
-                                                    <label class="control-label" for="password"><b>Password</b></label>
+                                                    <label class="control-label" for="user_name"><b>Нууц үг</b></label>
                                                     <div class="controls">
-                                                        <input type="password" id="password" name="password" placeholder="Password">
+                                                        <input type="password" id="password" name="password" placeholder="*********">
                                                     </div>
                                                 </div>
                                                 <div class="control-group signin-button">
                                                     <div class="controls" id="forgotPassword">
-                                                        <button type="submit" class="btn btn-primary sbutton">Sign in</button>
-                                                        &nbsp;&nbsp;&nbsp;<a>Forgot Password ?</a>
+                                                        <button type="submit" class="btn btn-primary sbutton">Нэвтэр</button>
+                                                        &nbsp;&nbsp;&nbsp;<a>Нууц үгээ мартсан уу ?</a>
                                                     </div>
                                                 </div>
                                             </form>
                                             <div class="login-subscript">
-                                                <small> Powered by Alchemist Platform 1.8.1</small>
+                                                <small> Алхимич Платформ 1.8.1</small>
                                             </div>
                                         </div> <!-- /#loginDiv -->
                                         <div class="login-box hide" id="forgotPasswordDiv">
                                             <form class="form-horizontal login-form" style="margin:0;" action="forgotPassword.php" method="POST">
                                                 <div class="">
-                                                    <h3 class="login-header">Forgot Password</h3>
+                                                    <h3 class="login-header">Нууц үг сэргээх</h3>
                                                 </div>
                                                 <div class="control-group">
-                                                    <label class="control-label" for="user_name"><b>User name</b></label>
+                                                    <label class="control-label" for="user_name"><b>Нэвтрэх нэр</b></label>
                                                     <div class="controls">
                                                         <input type="text" id="user_name" name="user_name" placeholder="Username">
                                                     </div>
                                                 </div>
                                                 <div class="control-group">
-                                                    <label class="control-label" for="email"><b>Email</b></label>
+                                                    <label class="control-label" for="email"><b>Цахим шуудан</b></label>
                                                     <div class="controls">
                                                         <input type="text" id="emailId" name="emailId" placeholder="Email">
                                                     </div>
                                                 </div>
                                                 <div class="control-group signin-button">
                                                     <div class="controls" id="backButton">
-                                                        <input type="submit" class="btn btn-primary sbutton" value="Submit" name="retrievePassword">
-                                                        &nbsp;&nbsp;&nbsp;<a>Back</a>
+                                                        <input type="submit" class="btn btn-primary sbutton" value="Илгээх" name="retrievePassword">
+                                                        &nbsp;&nbsp;&nbsp;<a>Буцах</a>
                                                     </div>
                                                 </div>
                                             </form>
