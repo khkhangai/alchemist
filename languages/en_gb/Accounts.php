@@ -8,10 +8,10 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-    'Accounts'                     => 'Харилцагч',
-    'SINGLE_Accounts'              => 'Харилцагч',
-    'LBL_ADD_RECORD'               => 'Харилцагч нэмэх',
-    'LBL_RECORDS_LIST'             => 'Харилцагч нар',
+    'Accounts'                     => 'Байгууллага',
+    'SINGLE_Accounts'              => 'Байгууллага',
+    'LBL_ADD_RECORD'               => 'Үүсгэх',
+    'LBL_RECORDS_LIST'             => 'Жагсаалт',
     'LBL_ACCOUNT_INFORMATION'      => 'Ерөнхий мэдээлэл',
     'LBL_SHOW_ACCOUNT_HIERARCHY'   => 'Байгууллагын бүтэц',
     'industry'                     => 'Салбар',

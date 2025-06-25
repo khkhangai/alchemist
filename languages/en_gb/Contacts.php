@@ -8,15 +8,15 @@
  * All Rights Reserved.
  ************************************************************************************/
 $languageStrings = array(
-    'Contacts'                     => 'Холбоо'                    , 
-    'SINGLE_Contacts'              => 'Холбоо'                           , 
-    'LBL_ADD_RECORD'               => 'Холбоо нэмэх'                    , 
-    'LBL_RECORDS_LIST'             => 'Холбооны жагсаалт'                , 
+    'Contacts'                     => 'Хувь хүмүүс'                    , 
+    'SINGLE_Contacts'              => 'Харилцагч'                           , 
+    'LBL_ADD_RECORD'               => 'Үүсгэх'                    , 
+    'LBL_RECORDS_LIST'             => 'Жагсаалт'                , 
     'LBL_CONTACT_INFORMATION'      => 'Ерөнхий мэдээлэл'                , 
     'LBL_CUSTOMER_PORTAL_INFORMATION' => 'Порталын тохиргоо'   , 
     'LBL_IMAGE_INFORMATION'        => 'Зураг:'                     , 
     'LBL_COPY_OTHER_ADDRESS'       => 'Хүргэлтийн хаягийг хуулбарлах'         , 
-    'LBL_COPY_MAILING_ADDRESS'     => 'Нэхэмжлэхийн хаягийг хуулбарлах'       , 
+    'LBL_COPY_MAILING_ADDRESS'     => 'Хаягийг хуулбарлах'       , 
     'Office Phone'                 => 'Ажлын утас'                             , 
     'Home Phone'                   => 'Гэрийн утас'                            , 
     'Title'                        => 'Албан тушаал'                           , 
