@@ -48,7 +48,7 @@
 			});
 		{/literal}</script>
 		<style type="text/css">{literal}
-			 body { background: #ffffff url('layouts/vlayout/skins/images/usersetupbg.png') no-repeat center top; background-size: 100%; font-size: 14px; }
+			 body { background: #ffffff; background-size: 100%; font-size: 14px; }
 			.modal-backdrop { opacity: 0.35; }
 			.tooltip { z-index: 1055; }
 			input, select, textarea { font-size: 14px; }
@@ -401,7 +401,7 @@
 							{/if}
 
 							<div class="span4">
-								<label class="control-label"><strong>{vtranslate('Preferences', $MODULE)}</strong> <span class="muted">{vtranslate('LBL_ALL_FIELDS_BELOW_ARE_REQUIRED', $MODULE)}</label>
+								<label class="control-label"><strong>{vtranslate('LBL_MY_PREFERENCES', $MODULE)}</strong> <br><span class="muted">{vtranslate('LBL_ALL_FIELDS_BELOW_ARE_REQUIRED', $MODULE)}</label>
 
 								{if $IS_FIRST_USER}
 								<div class="controls" id="currency_name_controls">

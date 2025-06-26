@@ -13,7 +13,7 @@
 	<div id="addNotePadWidgetContainer" class='modal'>
 		<div class="modal-header contentsBackground">
             <button data-dismiss="modal" class="close" title="{vtranslate('LBL_CLOSE')}">&times;</button>
-			<h3 id="massEditHeader">{vtranslate('LBL_ADD', $MODULE)} {vtranslate('LBL_NOTEPAD', $MODULE)}</h3>
+			<h3 id="massEditHeader">{vtranslate('LBL_NOTEPAD', $MODULE)}</h3>
 		</div>
 		<form class="form-horizontal" method="POST">
 			 <div class="control-group margin0px padding1per">
