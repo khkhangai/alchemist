@@ -56,22 +56,13 @@ abstract class Vtiger_Header_View extends Vtiger_View_Controller {
 			array (
 				'linktype' => 'HEADERLINK',
 				'linklabel' => 'LBL_FEEDBACK',
-				'linkurl' => "javascript:window.open('http://vtiger.com/products/crm/od-feedback/index.php?version=".$vtigerCurrentVersion.
-					"&email=".$userEmail."&uid=".$appUniqueKey.
-					"&ui=6','feedbackwin','height=400,width=550,top=200,left=300')",
+				'linkurl' => "#",
 				'linkicon' => 'info.png',
 				'childlinks' => array(
 					array (
 						'linktype' => 'HEADERLINK',
-						'linklabel' => 'LBL_DOCUMENTATION',
-						'linkurl' => 'https://wiki.vtiger.com/vtiger6/index.php/Main_Page',
-						'linkicon' => '',
-						'target' => '_blank'
-					),
-					array (
-						'linktype' => 'HEADERLINK',
 						'linklabel' => 'LBL_VIDEO_TUTORIAL',
-						'linkurl' => 'https://www.vtiger.com/crm/videos',
+						'linkurl' => '#',
 						'linkicon' => '',
 						'target' => '_blank'
 					),
@@ -79,9 +70,7 @@ abstract class Vtiger_Header_View extends Vtiger_View_Controller {
 					array (
 						'linktype' => 'HEADERLINK',
 						'linklabel' => 'LBL_FEEDBACK',
-						'linkurl' => "javascript:window.open('http://vtiger.com/products/crm/od-feedback/index.php?version=".$vtigerCurrentVersion.
-							"&email=".$userEmail."&uid=".$appUniqueKey.
-							"&ui=6','feedbackwin','height=400,width=550,top=200,left=300')",
+						'linkurl' => '#',
 						'linkicon' => '',
 					)
 				)
