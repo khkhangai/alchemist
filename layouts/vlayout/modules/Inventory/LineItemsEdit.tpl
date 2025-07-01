@@ -75,7 +75,7 @@
             </th>
         </tr>
         <tr>
-            <td><b>{vtranslate('LBL_TOOLS',$MODULE)}</b></td>
+            <td></td>
             <td><span class="redColor">*</span><b>{vtranslate('LBL_ITEM_NAME',$MODULE)}</b></td>
             <td><b>{vtranslate('LBL_QTY',$MODULE)}</b></td>
             <td><b>{vtranslate('LBL_LIST_PRICE',$MODULE)}</b></td>
@@ -245,10 +245,10 @@
             <td><span id="tax_final" class="pull-right tax_final">{if $FINAL.tax_totalamount}{$FINAL.tax_totalamount}{else}0{/if}</span></td>
         </tr>
         <!-- Group Tax - ends -->
-        <tr>
-            <td width="83%">
+        {* <tr>
+            <!-- <td width="83%">
                 <span class="pull-right">(+)&nbsp;<b><a href="javascript:void(0)" id="shippingHandlingTax">{vtranslate('LBL_TAX_FOR_SHIPPING_AND_HANDLING',$MODULE)} </a></b></span>
-
+            -->
                 <!-- Pop Div For Shipping and Handling TAX -->
                 <div class="hide validCheck" id="shipping_handling_div">
                     <table class="table table-nobordered popupTable">
@@ -287,7 +287,7 @@
             <td>
                 <span class="pull-right shipping_handling_tax" id="shipping_handling_tax">{if $FINAL.shtax_totalamount}{$FINAL.shtax_totalamount}{else}0{/if}</span>
             </td>
-        </tr>
+        </tr> *}
         <tr valign="top">
             <td width="83%" >
                 <div class="pull-right"><b>{vtranslate('LBL_ADJUSTMENT',$MODULE)}&nbsp;&nbsp;</b>
