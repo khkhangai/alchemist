@@ -245,10 +245,10 @@
             <td><span id="tax_final" class="pull-right tax_final">{if $FINAL.tax_totalamount}{$FINAL.tax_totalamount}{else}0{/if}</span></td>
         </tr>
         <!-- Group Tax - ends -->
-        {* <tr>
-            <!-- <td width="83%">
+        <tr>
+            <td width="83%">
                 <span class="pull-right">(+)&nbsp;<b><a href="javascript:void(0)" id="shippingHandlingTax">{vtranslate('LBL_TAX_FOR_SHIPPING_AND_HANDLING',$MODULE)} </a></b></span>
-            -->
+
                 <!-- Pop Div For Shipping and Handling TAX -->
                 <div class="hide validCheck" id="shipping_handling_div">
                     <table class="table table-nobordered popupTable">
