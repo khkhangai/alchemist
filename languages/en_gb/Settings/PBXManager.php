@@ -1,32 +1,30 @@
-
 <?php
-
 /* +***********************************************************************************
- * The contents of this file are subject to the vtiger CRM Public License Version 1.0
- * ("License"); You may not use this file except in compliance with the License
- * The Original Code is:  vtiger CRM Open Source
- * The Initial Developer of the Original Code is vtiger.
- * Portions created by vtiger are Copyright (C) vtiger.
- * All Rights Reserved.
+ * Энэ файлын агуулга нь vtiger CRM Нийтийн Лицензийн 1.0 хувилбарт хамаарна
+ * ("Лиценз"); Та энэхүү файлыг зөвхөн Лицензийн шаардлагын дагуу ашиглаж болно
+ * Эх код нь:  vtiger CRM Нээлттэй эх
+ * Эх кодын анхны хөгжүүлэгч нь vtiger.
+ * vtiger-ийн бүтээсэн хэсгүүд нь © vtiger.
+ * Бүх эрх хуулиар хамгаалагдсан.
  * *********************************************************************************** */
 $languageStrings = array(
-    'LBL_SELECT_ONE' => 'Select',
-    'LBL_PBXMANAGER' =>'PBXManager',
-    'LBL_PBXMANAGER_CONFIG' => 'Asterisk Server Details',
-    'LBL_NOTE' => 'Note:',
-    'LBL_INFO_WEBAPP_URL' => 'Configure your Asterisk URL in the  format', 
-    'LBL_FORMAT_WEBAPP_URL' => '(protocol)://(asterisk_ip):(VtigerConnector_port)',
-    'LBL_FORMAT_INFO_WEBAPP_URL' => 'ex:http://0.0.0.0:5000',
-    'LBL_INFO_CONTEXT' => 'vtiger CRM specfic context configured in your Asterisk server(extensions.conf)',
-    'LBL_PBXMANAGER_INFO' => 'Configure Asterisk Server Details after installing the vtiger CRM Asterisk Connector in your Asterisk Server',
+    'LBL_SELECT_ONE' => 'Сонгох',
+    'LBL_PBXMANAGER' =>'PBX Менежер',
+    'LBL_PBXMANAGER_CONFIG' => 'Asterisk серверийн дэлгэрэнгүй',
+    'LBL_NOTE' => 'Тэмдэглэл:',
+    'LBL_INFO_WEBAPP_URL' => 'Өөрийн Asterisk URL-ийг дараах форматтайгаар тохируулна уу', 
+    'LBL_FORMAT_WEBAPP_URL' => '(протокол)://(asterisk_ip):(VtigerConnector_port)',
+    'LBL_FORMAT_INFO_WEBAPP_URL' => 'ж: http://0.0.0.0:5000',
+    'LBL_INFO_CONTEXT' => 'Таны Asterisk серверт (extensions.conf) тохируулагдсан vtiger CRM-ийн тусгай контекст',
+    'LBL_PBXMANAGER_INFO' => 'Asterisk серверт vtiger CRM Asterisk Connector суулгасны дараа серверийн дэлгэрэнгүйг тохируулна уу',
     
-    'webappurl'=>'vtiger CRM Asterisk App URL',
-    'vtigersecretkey'=>'vtiger CRM Secret Key',
-    'context'=>'Context',
+    'webappurl'=>'vtiger CRM Asterisk Апп URL',
+    'vtigersecretkey'=>'vtiger CRM нууц түлхүүр',
+    'context'=>'Контекст',
     
 );
 
 $jsLanguageStrings = array(
     
 );
-?>  
+?>

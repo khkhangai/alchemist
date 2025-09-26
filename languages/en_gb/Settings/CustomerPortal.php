@@ -1,32 +1,32 @@
 <?php
 /*+***********************************************************************************
- * The contents of this file are subject to the vtiger CRM Public License Version 1.0
- * ("License"); You may not use this file except in compliance with the License
- * The Original Code is:  vtiger CRM Open Source
- * The Initial Developer of the Original Code is vtiger.
- * Portions created by vtiger are Copyright (C) vtiger.
- * All Rights Reserved.
+ * Энэ файлын агуулга нь vtiger CRM Нийтийн Лицензийн 1.0 хувилбарт хамаарна
+ * ("Лиценз"); Та энэхүү файлыг зөвхөн Лицензийн шаардлагын дагуу ашиглаж болно
+ * Эх код нь:  vtiger CRM Нээлттэй эх
+ * Эх кодын анхны хөгжүүлэгч нь vtiger.
+ * vtiger-ийн бүтээсэн хэсгүүд нь © vtiger.
+ * Бүх эрх хуулиар хамгаалагдсан.
  *************************************************************************************/
 $languageStrings = array(
-	'CustomerPortal' => 'Customer Portal',
-	'LBL_PORTAL_DESCRIPTION' => 'Setup Privileges of Portal User',
+	'CustomerPortal' => 'Харилцагчийн портал',
+	'LBL_PORTAL_DESCRIPTION' => 'Портал хэрэглэгчийн эрхийг тохируулах',
 
-	'LBL_PRIVILEGES' => 'Privileges',
-	'LBL_DEFAULT_ASSIGNEE' => 'Default Assignee',
-	'LBL_PORTAL_URL' => 'Portal URL',
+	'LBL_PRIVILEGES' => 'Эрхүүд',
+	'LBL_DEFAULT_ASSIGNEE' => 'Өгөгдмөл хариуцагч',
+	'LBL_PORTAL_URL' => 'Порталын холбоос',
 
 	//Fields
-	'LBL_MODULE_NAME' => 'Module Name',
-	'LBL_ENABLE_MODULE' => 'Enable Module',
-	'LBL_VIEW_ALL_RECORDS' => 'See records across Organisation',
+	'LBL_MODULE_NAME' => 'Модулийн нэр',
+	'LBL_ENABLE_MODULE' => 'Модулийг идэвхжүүлэх',
+	'LBL_VIEW_ALL_RECORDS' => 'Байгууллагын бүх бичлэгийг харах',
 
 	//Messages
-	'LBL_PREVILEGES_MESSAGE' => "This Role's privileges will be applied to the Portal User.",
-	'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Tickets will be assigned to the selected assignee by the default Group/User from the Customer Portal.',
-	'LBL_PORTAL_URL_MESSAGE' => 'This is the URL for the Portal where your Contacts can login to submit/track tickets, access knowledge base and more. Contacts will be sent the login details when Portal access is enabled from Contact details page.',
-	'LBL_DRAG_AND_DROP_MESSAGE' => 'Drag and Drop modules to reorder in the Customer Portal',
+	'LBL_PREVILEGES_MESSAGE' => "Энэ үүргийн эрхүүдийг Портал хэрэглэгчид хэрэгжүүлнэ.",
+	'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Тасалбаруудыг Харилцагчийн портал дахь өгөгдмөл бүлэг/хэрэглэгчээр сонгогдсон хариуцагчид онооно.',
+	'LBL_PORTAL_URL_MESSAGE' => 'Энэ бол таны харилцагчид тасалбар илгээх, хянах, мэдлэгийн сантай ажиллах болон бусад үйлчилгээнд нэвтрэх порталын холбоос юм. Харилцагчийн дэлгэрэнгүй мэдээллийн хуудсаас порталыг идэвхжүүлмэгц нэвтрэх мэдээллийг харилцагчид илгээнэ.',
+	'LBL_DRAG_AND_DROP_MESSAGE' => 'Харилцагчийн порталд модулиудын дарааллыг өөрчлөхийн тулд чирч тавина уу',
 );
 
 $jsLanguageStrings = array(
-	'JS_PORTAL_INFO_SAVED' => 'Customer Portal Settings Saved',
+	'JS_PORTAL_INFO_SAVED' => 'Харилцагчийн порталын тохиргоо хадгалагдлаа',
 );

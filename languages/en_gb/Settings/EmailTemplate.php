@@ -1,15 +1,15 @@
 <?php
 /*+**********************************************************************************
- * The contents of this file are subject to the vtiger CRM Public License Version 1.0
- * ("License"); You may not use this file except in compliance with the License
- * The Original Code is:  vtiger CRM Open Source
- * The Initial Developer of the Original Code is vtiger.
- * Portions created by vtiger are Copyright (C) vtiger.
- * All Rights Reserved.
+ * Энэ файлын агуулга нь vtiger CRM Нийтийн Лицензийн 1.0 хувилбарт хамаарна
+ * ("Лиценз"); Та энэхүү файлыг зөвхөн Лицензийн шаардлагын дагуу ашиглаж болно
+ * Эх код нь:  vtiger CRM Нээлттэй эх
+ * Эх кодын анхны хөгжүүлэгч нь vtiger.
+ * vtiger-ийн бүтээсэн хэсгүүд нь © vtiger.
+ * Бүх эрх хуулиар хамгаалагдсан.
  ************************************************************************************/
 $languageStrings = array(
-	'EmailTemplate'                => 'Email Template'              , // TODO: Review
-	'LBL_TEMPLATE_NAME'            => 'Template Name'               , 
-	'LBL_DESCRIPTION'              => 'Description'                 , 
-	'LBL_SUBJECT'                  => 'Subject'                     , // TODO: Review
+	'EmailTemplate'                => 'И-мэйл загвар'              , // TODO: Review
+	'LBL_TEMPLATE_NAME'            => 'Загварын нэр'               , // TODO: Review
+	'LBL_DESCRIPTION'              => 'Тайлбар'                    , // TODO: Review
+	'LBL_SUBJECT'                  => 'Гарчиг'                     , // TODO: Review
 );

@@ -1,23 +1,23 @@
 <?php
 /*+**********************************************************************************
- * The contents of this file are subject to the vtiger CRM Public License Version 1.0
- * ("License"); You may not use this file except in compliance with the License
- * The Original Code is:  vtiger CRM Open Source
- * The Initial Developer of the Original Code is vtiger.
- * Portions created by vtiger are Copyright (C) vtiger.
- * All Rights Reserved.
+ * Энэ файлын агуулга нь vtiger CRM Нийтийн Лицензийн 1.0 хувилбарт хамаарна
+ * ("License"); Та энэхүү файлыг зөвхөн Лицензийн шаардлагын дагуу ашиглаж болно
+ * Эх код нь: vtiger CRM Нээлттэй эх
+ * Эх кодын анхны хөгжүүлэгч нь vtiger.
+ * vtiger-ийн бүтээсэн хэсгүүд нь (C) vtiger.
+ * Бүх эрх хуулиар хамгаалагдсан.
  ************************************************************************************/
 $languageStrings = array(
-	'CronTasks'                    => 'Scheduler'                   , // TODO: Review
-	'Id'                           => 'Id'                          , // TODO: Review
-	'Cron Job'                     => 'Cron Job'                    , // TODO: Review
-	'Frequency'                    => 'Frequency'                   , // TODO: Review
-	'Status'                       => 'Status'                      , // TODO: Review
-	'Last Start'                   => 'Last scan started'           , // TODO: Review
-	'Last End'                     => 'Last scan ended'             , // TODO: Review
-	'Sequence'                     => 'Sequence'                    , // TODO: Review
-	'LBL_COMPLETED'                => 'Completed'                   , // TODO: Review
-	'LBL_RUNNING'                  => 'Running'                     , // TODO: Review
-	'LBL_ACTIVE'                   => 'Active'                      , // TODO: Review
-	'LBL_INACTIVE'                 => 'Inactive'                    , // TODO: Review
-);
+	'CronTasks'                    => 'Хуваарь'                     , // TODO: Review
+	'Дугаар'                       => 'Дугаар'                      , // TODO: Review
+	'Cron ажил'                    => 'Cron ажил'                   , // TODO: Review
+	'Давтамж'                      => 'Давтамж'                     , // TODO: Review
+	'Төлөв'                        => 'Төлөв'                       , // TODO: Review
+	'Last Start'                   => 'Сүүлийн скан эхэлсэн'        , // TODO: Review
+	'Last End'                     => 'Сүүлийн скан дууссан'        , // TODO: Review
+	'Дараалал'                     => 'Дараалал'                    , // TODO: Review
+	'LBL_COMPLETED'                => 'Дууссан'                     , // TODO: Review
+	'LBL_RUNNING'                  => 'Ажиллаж байна'               , // TODO: Review
+	'LBL_ACTIVE'                   => 'Идэвхтэй'                    , // TODO: Review
+	'LBL_INACTIVE'                 => 'Идэвхгүй'                    , // TODO: Review
+); 

@@ -1,62 +1,62 @@
 <?php
 /*+**********************************************************************************
- * The contents of this file are subject to the vtiger CRM Public License Version 1.0
- * ("License"); You may not use this file except in compliance with the License
- * The Original Code is:  vtiger CRM Open Source
- * The Initial Developer of the Original Code is vtiger.
- * Portions created by vtiger are Copyright (C) vtiger.
- * All Rights Reserved.
+ * Энэ файлын агуулга нь vtiger CRM Нийтийн Лицензийн 1.0 хувилбарт хамаарна
+ * ("Лиценз"); Та энэхүү файлыг зөвхөн Лицензийн шаардлагын дагуу ашиглаж болно
+ * Эх код нь:  vtiger CRM Нээлттэй эх
+ * Эх кодын анхны хөгжүүлэгч нь vtiger.
+ * vtiger-ийн бүтээсэн хэсгүүд нь © vtiger.
+ * Бүх эрх хуулиар хамгаалагдсан.
  ************************************************************************************/
 $languageStrings = array(
-	'LBL_SAVED_SUCCESSFULLY'       => 'Saved Successfully'          , // TODO: Review
-	'LBL_DELETED_SUCCESSFULLY'     => 'Deleted Successfully'        , // TODO: Review
-	'LBL_INVALID_MAPPING'          => 'Invalid Mapping'             , // TODO: Review
-	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Convert Lead Mapping'        , // TODO: Review
-	'LBL_FIELD_LABEL'              => 'Field Label'                 , // TODO: Review
-	'LBL_FIELD_TYPE'               => 'Field Type'                  , // TODO: Review
-	'LBL_MAPPING_WITH_OTHER_MODULES' => 'Mapping with other Modules'  , // TODO: Review
-	'LBL_ORGANIZATIONS'            => 'Organisations'               , // TODO: Review
-	'LBL_CONTACTS'                 => 'Contacts'                    , // TODO: Review
-	'LBL_OPPURTUNITIES'            => 'Opportunities'               , // TODO: Review
-	'LBL_ADD_MAPPING'              => 'Add Mapping'                 , // TODO: Review
-	'LBL_NONE'                     => 'None'                        , // TODO: Review
-	'phone'                        => 'Phone'                       , // TODO: Review
-	'picklist'                     => 'Picklist'                   , // TODO: Review
-	'email'                        => 'Email'                       , // TODO: Review
-	'text'                         => 'String'                      , // TODO: Review
-	'currency'                     => 'Currency'                    , // TODO: Review
-	'multiSelectCombo'             => 'Multi-Select Combo Box'      , // TODO: Review
-	'time'                         => 'Time'                        , // TODO: Review
-	'textArea'                     => 'Text Area'                   , // TODO: Review
-	'url'                          => 'URL'                         , // TODO: Review
-	'string'                       => 'String'                      , // TODO: Review
-	'checkBox'                     => 'Check Box'                   , // TODO: Review
-	'date'                         => 'Date'                        , // TODO: Review
-	'decimal'                      => 'Decimal'                     , // TODO: Review
-	'percent'                      => 'Percent'                     , // TODO: Review
-	'skype'                        => 'Skype'                       , // TODO: Review
+	'LBL_SAVED_SUCCESSFULLY'       => 'Амжилттай хадгалагдлаа',
+	'LBL_DELETED_SUCCESSFULLY'     => 'Амжилттай устгагдлаа',
+	'LBL_INVALID_MAPPING'          => 'Буруу зураглалт',
+	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Лийд хувиргах зураглалт',
+	'LBL_FIELD_LABEL'              => 'Талбарын шошго',
+	'LBL_FIELD_TYPE'               => 'Талбарын төрөл',
+	'LBL_MAPPING_WITH_OTHER_MODULES' => 'Бусад модулиудтай зураглалт',
+	'LBL_ORGANIZATIONS'            => 'Байгууллагууд',
+	'LBL_CONTACTS'                 => 'Холбоо баригчид',
+	'LBL_OPPURTUNITIES'            => 'Боломжууд',
+	'LBL_ADD_MAPPING'              => 'Зураглалт нэмэх',
+	'LBL_NONE'                     => 'Байхгүй',
+	'phone'                        => 'Утас',
+	'picklist'                     => 'Сонголтын жагсаалт',
+	'email'                        => 'И-мэйл',
+	'text'                         => 'Текст',
+	'currency'                     => 'Валют',
+	'multiSelectCombo'             => 'Олон сонголтын хайрцаг',
+	'time'                         => 'Цаг',
+	'textArea'                     => 'Текстийн талбар',
+	'url'                          => 'Холбоос',
+	'string'                       => 'Текст',
+	'checkBox'                     => 'Чекбокс',
+	'date'                         => 'Огноо',
+	'decimal'                      => 'Аравтын тоо',
+	'percent'                      => 'Хувь',
+	'skype'                        => 'Skype',
 );
 $jsLanguageStrings = array(
-	'JS_NONE'                      => 'None'                        , // TODO: Review
-	'JS_IS_ALREADY_BEEN_MAPPED'    => 'has already been mapped'      , // TODO: Review
-	'JS_CANT_MAP'                  => 'Cant map'                    , // TODO: Review
-	'JS_WITH'                      => 'with'                        , // TODO: Review
-	'JS_MAPPING_DELETED_SUCCESSFULLY' => 'Mapping Deleted Successfully', // TODO: Review
-	'JS_phone'                     => 'Phone'                       , // TODO: Review
-	'JS_picklist'                  => 'Picklist'                   , // TODO: Review
-	'JS_email'                     => 'Email'                       , // TODO: Review
-	'JS_text'                      => 'String'                      , // TODO: Review
-	'JS_currency'                  => 'Currency'                    , // TODO: Review
-	'JS_multiSelectCombo'          => 'Multi-Select Combo Box'      , // TODO: Review
-	'JS_time'                      => 'Time'                        , // TODO: Review
-	'JS_textArea'                  => 'Text Area'                   , // TODO: Review
-	'JS_url'                       => 'URL'                         , // TODO: Review
-	'JS_string'                    => 'String'                      , // TODO: Review
-	'JS_checkBox'                  => 'Check Box'                   , // TODO: Review
-	'JS_date'                      => 'Date'                        , // TODO: Review
-	'JS_decimal'                   => 'Decimal'                     , // TODO: Review
-	'JS_percent'                   => 'Percent'                     , // TODO: Review
-	'JS_skype'                     => 'Skype'                       , // TODO: Review
-	'JS_None'                      => 'None'                        , // TODO: Review
-	'JS_integer'				   => 'Integer',
+	'JS_NONE'                      => 'Байхгүй',
+	'JS_IS_ALREADY_BEEN_MAPPED'    => 'аль хэдийн зураглагдсан байна',
+	'JS_CANT_MAP'                  => 'Зураглаж болохгүй',
+	'JS_WITH'                      => 'хамт',
+	'JS_MAPPING_DELETED_SUCCESSFULLY' => 'Зураглалт амжилттай устгагдлаа',
+	'JS_phone'                     => 'Утас',
+	'JS_picklist'                  => 'Сонголтын жагсаалт',
+	'JS_email'                     => 'И-мэйл',
+	'JS_text'                      => 'Текст',
+	'JS_currency'                  => 'Валют',
+	'JS_multiSelectCombo'          => 'Олон сонголтын хайрцаг',
+	'JS_time'                      => 'Цаг',
+	'JS_textArea'                  => 'Текстийн талбар',
+	'JS_url'                       => 'Холбоос',
+	'JS_string'                    => 'Текст',
+	'JS_checkBox'                  => 'Чекбокс',
+	'JS_date'                      => 'Огноо',
+	'JS_decimal'                   => 'Аравтын тоо',
+	'JS_percent'                   => 'Хувь',
+	'JS_skype'                     => 'Skype',
+	'JS_None'                      => 'Байхгүй',
+	'JS_integer'                   => 'Бүхэл тоо',
 );

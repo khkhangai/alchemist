@@ -1,36 +1,36 @@
 <?php
 /*+**********************************************************************************
- * The contents of this file are subject to the vtiger CRM Public License Version 1.0
- * ("License"); You may not use this file except in compliance with the License
- * The Original Code is:  vtiger CRM Open Source
- * The Initial Developer of the Original Code is vtiger.
- * Portions created by vtiger are Copyright (C) vtiger.
- * All Rights Reserved.
+ * Энэ файлын агуулга нь vtiger CRM Нийтийн Лицензийн 1.0 хувилбарт хамаарна
+ * ("Лиценз"); Та энэхүү файлыг зөвхөн Лицензийн шаардлагын дагуу ашиглаж болно
+ * Эх код нь:  vtiger CRM Нээлттэй эх
+ * Эх кодын анхны хөгжүүлэгч нь vtiger.
+ * vtiger-ийн бүтээсэн хэсгүүд нь © vtiger.
+ * Бүх эрх хуулиар хамгаалагдсан.
  ************************************************************************************/
 $languageStrings = array(
-	'Accounts'                     => 'Organisations & Contacts'    , // TODO: Review
-	'LBL_ADD_CUSTOM_RULE'          => 'Add Custom Privilege Rule'   , 
-	'Read Only'                    => 'R'                           , 
-	'Read Write'                   => 'R+W'                         , 
-	'LBL_ADD_CUSTOM_RULE_TO'       => 'Add Custom Rule to'          , // TODO: Review
-	'LBL_CAN_ACCESSED_BY'          => 'Can be accessed by'          , 
-	'LBL_PRIVILEGES'               => 'Privileges'                  , 
-	'LBL_SHARING_RULE'             => 'Sharing Rules'               , 
-	'LBL_RULE_NO'                  => 'Rule No.'                    , 
-	'LBL_MODULE'                   => 'Module'                      , // TODO: Review
-	'LBL_ADVANCED_SHARING_RULES'   => 'Advanced Sharing Rules'      , // TODO: Review
-	'LBL_WITH_PERMISSIONS'         => 'With Permissions'            , // TODO: Review
-	'LBL_APPLY_NEW_SHARING_RULES'  => 'Apply New Sharing Rules'     , // TODO: Review
-	'LBL_READ'                     => 'Read'                        , // TODO: Review
-	'LBL_READ_WRITE'               => 'Read and Write'              , // TODO: Review
-	'LBL_CUSTOM_ACCESS_MESG'       => 'No Custom Access Rules defined', // TODO: Review
-	'SINGLE_Groups'                => 'Group'                       , // TODO: Review
-	'SINGLE_Roles'                 => 'Role'                        , // TODO: Review
-	'SINGLE_RoleAndSubordinates'   => 'RoleAndSubordinate'          , // TODO: Review
+	'Accounts'                     => 'Байгууллага ба Холбоо баригчид', 
+	'LBL_ADD_CUSTOM_RULE'          => 'Тусгай эрхийн дүрэм нэмэх', 
+	'Read Only'                    => 'Зөвхөн унших', 
+	'Read Write'                   => 'Унших + Бичих', 
+	'LBL_ADD_CUSTOM_RULE_TO'       => 'Тусгай дүрэм нэмэх', 
+	'LBL_CAN_ACCESSED_BY'          => 'Хандаж болох этгээд', 
+	'LBL_PRIVILEGES'               => 'Эрхүүд', 
+	'LBL_SHARING_RULE'             => 'Хуваалцах дүрэм', 
+	'LBL_RULE_NO'                  => 'Дүрмийн №', 
+	'LBL_MODULE'                   => 'Модуль', 
+	'LBL_ADVANCED_SHARING_RULES'   => 'Дэвшилтэт хуваалцах дүрэм', 
+	'LBL_WITH_PERMISSIONS'         => 'Эрхийн хамт', 
+	'LBL_APPLY_NEW_SHARING_RULES'  => 'Шинэ хуваалцах дүрмийг хэрэгжүүлэх', 
+	'LBL_READ'                     => 'Унших', 
+	'LBL_READ_WRITE'               => 'Унших ба бичих', 
+	'LBL_CUSTOM_ACCESS_MESG'       => 'Тусгай хандалтын дүрэм тодорхойлогдоогүй байна', 
+	'SINGLE_Groups'                => 'Бүлэг', 
+	'SINGLE_Roles'                 => 'Үүрэг', 
+	'SINGLE_RoleAndSubordinates'   => 'Үүрэг ба дэд үүргүүд', 
 );
 $jsLanguageStrings = array(
-	'JS_CUSTOM_RULE_SAVED_SUCCESSFULLY' => 'Custom Sharing Rule Saved Successfully', // TODO: Review
-	'JS_SELECT_ANY_OTHER_ACCESSING_USER' => 'Select any other accessing user', // TODO: Review
-	'JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY' => 'New Sharing Rules Applied Successfully', // TODO: Review
-	'JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE' => 'Opportunities, Tickets, Quotes, Sales Orders & Invoices access must be set to Private when the Organisation access is set to Private', // TODO: Review
+	'JS_CUSTOM_RULE_SAVED_SUCCESSFULLY' => 'Тусгай хуваалцах дүрэм амжилттай хадгалагдлаа',
+	'JS_SELECT_ANY_OTHER_ACCESSING_USER' => 'Өөр хандах хэрэглэгчийг сонгоно уу',
+	'JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY' => 'Шинэ хуваалцах дүрэм амжилттай хэрэгжлээ',
+	'JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE' => 'Хэрэв Байгууллагын хандалт "Хувийн" бол Боломж, Тасалбар, Үнийн санал, Борлуулалтын захиалга ба Нэхэмжлэхийн хандалтыг мөн "Хувийн" болгож тохируулах ёстой',
 );

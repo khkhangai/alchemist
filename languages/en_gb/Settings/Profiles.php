@@ -1,47 +1,47 @@
 <?php
 /*+**********************************************************************************
- * The contents of this file are subject to the vtiger CRM Public License Version 1.0
- * ("License"); You may not use this file except in compliance with the License
- * The Original Code is:  vtiger CRM Open Source
- * The Initial Developer of the Original Code is vtiger.
- * Portions created by vtiger are Copyright (C) vtiger.
- * All Rights Reserved.
+ * Энэ файлын агуулга нь vtiger CRM Нийтийн Лицензийн 1.0 хувилбарт хамаарна
+ * ("Лиценз"); Та энэхүү файлыг зөвхөн Лицензийн шаардлагын дагуу ашиглаж болно
+ * Эх код нь:  vtiger CRM Нээлттэй эх
+ * Эх кодын анхны хөгжүүлэгч нь vtiger.
+ * vtiger-ийн бүтээсэн хэсгүүд нь © vtiger.
+ * Бүх эрх хуулиар хамгаалагдсан.
  ************************************************************************************/
 $languageStrings = array(
-	'Profiles'                     => 'Profiles'                    , 
-	'SINGLE_Profiles'              => 'Profile'                     , 
-	'LBL_ADD_RECORD'               => 'Add Profile'                 , 
-	'LBL_CREATE_PROFILE'           => 'Create Profile'              , // TODO: Review
-	'LBL_PROFILE_NAME'             => 'Profile Name'                , // TODO: Review
-	'LBL_DESCRIPTION'              => 'Description'                 , // TODO: Review
-	'LBL_EDIT_PRIVILIGES_FOR_THIS_PROFILE' => 'Edit priviliges for this Profile', // TODO: Review
-	'LBL_MODULES'                  => 'Modules'                     , // TODO: Review
-	'LBL_PROFILE_VIEW'             => 'Profile View'                , // TODO: Review
-	'LBL_FIELDS'                   => 'Fields'                      , // TODO: Review
-	'LBL_TOOLS'                    => 'Tools'                       , // TODO: Review
-	'LBL_FIELD_AND_TOOL_PRVILIGES' => 'Field and Tool Privileges'   , // TODO: Review
-	'LBL_EDIT_RECORD'              => 'Edit'                        , // TODO: Review
-	'LBL_DUPLICATE_RECORD'         => 'Duplicate'                   , // TODO: Review
-	'LBL_DELETE_RECORD'            => 'Delete'                      , // TODO: Review
-	'LBL_VIEW_PRVILIGE'            => 'View'                        , 
-	'LBL_EDIT_PRVILIGE'            => 'Create/Edit'                 , 
-	'LBL_DELETE_PRVILIGE'          => 'Delete'                      , 
-	'LBL_INIVISIBLE'               => 'Invisible'                   , // TODO: Review
-	'LBL_READ_ONLY'                => 'Read only'                   , // TODO: Review
-	'LBL_WRITE'                    => 'Write'                       , // TODO: Review
-	'LBL_DELETE_PROFILE'           => 'Delete Profile'              , // TODO: Review
-	'LBL_TRANSFER_ROLES_TO_PROFILE' => 'Transfer Roles to Profile'   , // TODO: Review
-	'LBL_PROFILES'                 => 'Profiles'                    , // TODO: Review
-	'LBL_CHOOSE_PROFILES'          => 'Choose Profiles'             , // TODO: Review
+	'Profiles'                     => 'Профайлууд', 
+	'SINGLE_Profiles'              => 'Профайл', 
+	'LBL_ADD_RECORD'               => 'Профайл нэмэх', 
+	'LBL_CREATE_PROFILE'           => 'Профайл үүсгэх', 
+	'LBL_PROFILE_NAME'             => 'Профайлын нэр', 
+	'LBL_DESCRIPTION'              => 'Тайлбар', 
+	'LBL_EDIT_PRIVILIGES_FOR_THIS_PROFILE' => 'Энэ профайлын эрхүүдийг засах', 
+	'LBL_MODULES'                  => 'Модулиуд', 
+	'LBL_PROFILE_VIEW'             => 'Профайлын харагдац', 
+	'LBL_FIELDS'                   => 'Талбарууд', 
+	'LBL_TOOLS'                    => 'Багажууд', 
+	'LBL_FIELD_AND_TOOL_PRVILIGES' => 'Талбар ба Багажийн эрхүүд', 
+	'LBL_EDIT_RECORD'              => 'Засах', 
+	'LBL_DUPLICATE_RECORD'         => 'Хуулах', 
+	'LBL_DELETE_RECORD'            => 'Устгах', 
+	'LBL_VIEW_PRVILIGE'            => 'Харах', 
+	'LBL_EDIT_PRVILIGE'            => 'Үүсгэх/Засах', 
+	'LBL_DELETE_PRVILIGE'          => 'Устгах', 
+	'LBL_INIVISIBLE'               => 'Үл харагдах', 
+	'LBL_READ_ONLY'                => 'Зөвхөн унших', 
+	'LBL_WRITE'                    => 'Бичих', 
+	'LBL_DELETE_PROFILE'           => 'Профайл устгах', 
+	'LBL_TRANSFER_ROLES_TO_PROFILE' => 'Үүргийг профайлд шилжүүлэх', 
+	'LBL_PROFILES'                 => 'Профайлууд', 
+	'LBL_CHOOSE_PROFILES'          => 'Профайл сонгох', 
     
-        'Import' => 'Import',
-        'Export' => 'Export',
-	'Merge'  => 'Merge',
-        'ConvertLead' => 'ConvertLead',
-        'DuplicatesHandling' => 'DuplicatesHandling',
-        'ReceiveIncomingCalls' => 'ReceiveIncomingCalls',
-        'MakeOutgoingCalls' => 'MakeOutgoingCalls',
-        'Print' => 'Print',
+        'Import' => 'Импорт',
+		'Export' => 'Экспорт',
+	'Merge'  => 'Нэгтгэх',
+		'ConvertLead' => 'Лийд хөрвүүлэх',
+		'DuplicatesHandling' => 'Давхардал боловсруулах',
+		'ReceiveIncomingCalls' => 'Ирж буй дуудлага хүлээн авах',
+		'MakeOutgoingCalls' => 'Гарч буй дуудлага хийх',
+		'Print' => 'Хэвлэх',
 );
 $jsLanguageStrings = array(
 	'JS_RECORD_DELETED_SUCCESSFULLY' => 'Profile deleted successfully', // TODO: Review

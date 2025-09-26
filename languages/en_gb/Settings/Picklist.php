@@ -1,56 +1,56 @@
 <?php
 /*+**********************************************************************************
- * The contents of this file are subject to the vtiger CRM Public License Version 1.0
- * ("License"); You may not use this file except in compliance with the License
- * The Original Code is:  vtiger CRM Open Source
- * The Initial Developer of the Original Code is vtiger.
- * Portions created by vtiger are Copyright (C) vtiger.
- * All Rights Reserved.
+ * Энэ файлын агуулга нь vtiger CRM Нийтийн Лицензийн 1.0 хувилбарт хамаарна
+ * ("Лиценз"); Та энэхүү файлыг зөвхөн Лицензийн шаардлагын дагуу ашиглаж болно
+ * Эх код нь:  vtiger CRM Нээлттэй эх
+ * Эх кодын анхны хөгжүүлэгч нь vtiger.
+ * vtiger-ийн бүтээсэн хэсгүүд нь © vtiger.
+ * Бүх эрх хуулиар хамгаалагдсан.
  ************************************************************************************/
 $languageStrings = array(
-	'LBL_SELECT_PICKLIST_IN'       => 'Select Picklist in'          , // TODO: Review
-	'LBL_ADD_VALUE'                => 'Add Value'                   , // TODO: Review
-	'LBL_RENAME_VALUE'             => 'Rename Value'                , // TODO: Review
-	'LBL_DELETE_VALUE'             => 'Delete Value'                , // TODO: Review
-	'LBL_ITEMS'                    => 'Values'                      , // TODO: Review
-	'LBL_DRAG_ITEMS_TO_RESPOSITION' => 'Drag items to reposition them', // TODO: Review
-	'LBL_SELECT_AN_ITEM_TO_RENAME_OR_DELETE' => 'Select an item to rename or delete', // TODO: Review
-	'LBL_TO_DELETE_MULTIPLE_HOLD_CONTROL_KEY' => 'To Delete multiple items hold Ctrl key down while selecting items', // TODO: Review
-	'LBL_ADD_ITEM_TO'              => 'Add Item to'                 , // TODO: Review
-	'LBL_ITEM_VALUE'               => 'Item value'                  , // TODO: Review
-	'LBL_ITEM_TO_RENAME'           => 'Item to rename'              , // TODO: Review
-	'LBL_ENTER_NEW_NAME'           => 'Enter new Name'              , // TODO: Review
-	'LBL_RENAME_PICKLIST_ITEM'     => 'Rename Picklist Item'        , // TODO: Review
-	'LBL_DELETE_PICKLIST_ITEMS'    => 'Delete Picklist Items'       , // TODO: Review
-	'LBL_ITEMS_TO_DELETE'          => 'Items to Delete'             , // TODO: Review
-	'LBL_REPLACE_IT_WITH'          => 'Replace it with'             , // TODO: Review
-	'LBL_ASSIGN_TO_ROLE'           => 'Assign to Role'              , // TODO: Review
-	'LBL_ALL_ROLES'                => 'All Roles'                   , // TODO: Review
-	'LBL_CHOOSE_ROLES'             => 'Choose Roles'                , // TODO: Review
-	'LBL_ALL_VALUES'               => 'All values'                  , // TODO: Review
-	'LBL_VALUES_ASSIGNED_TO_A_ROLE' => 'Values assigned to a role'   , // TODO: Review
-	'LBL_ASSIGN_VALUE'             => 'Assign Value'                , // TODO: Review
-	'LBL_SAVE_ORDER'               => 'Save Order'                  , // TODO: Review
-	'LBL_ROLE_NAME'                => 'Role Name'                   , // TODO: Review
-	'LBL_SELECTED_VALUES_MESSGAE'  => 'will appear for the user with this role', // TODO: Review
-	'LBL_ENABLE/DISABLE_MESSGAE'   => 'Click on value to Enable/Disable it. Then click "Save"', // TODO: Review
-	'LBL_ASSIGN_VALUES_TO_ROLES'   => 'Assign Values to Roles'      , // TODO: Review
-	'LBL_SELECTED_VALUES'          => 'Selected Values'             , // TODO: Review
-	'NO_PICKLIST_FIELDS'           => 'do not have any picklist fields', // TODO: Review
-	
-	//Translation for module
-	'Calendar' => 'To Do',
+	'LBL_SELECT_PICKLIST_IN'       => 'Сонголтын жагсаалт сонгох',
+	'LBL_ADD_VALUE'                => 'Утга нэмэх',
+	'LBL_RENAME_VALUE'             => 'Утгыг нэр өөрчлөх',
+	'LBL_DELETE_VALUE'             => 'Утга устгах',
+	'LBL_ITEMS'                    => 'Утгууд',
+	'LBL_DRAG_ITEMS_TO_RESPOSITION' => 'Утгуудыг дахин байрлуулахын тулд чирнэ үү',
+	'LBL_SELECT_AN_ITEM_TO_RENAME_OR_DELETE' => 'Нэр өөрчлөх эсвэл устгах утгыг сонгоно уу',
+	'LBL_TO_DELETE_MULTIPLE_HOLD_CONTROL_KEY' => 'Олон утгыг устгахын тулд Ctrl товч дарж сонгоно уу',
+	'LBL_ADD_ITEM_TO'              => 'Утгыг нэмэх газар',
+	'LBL_ITEM_VALUE'               => 'Утга',
+	'LBL_ITEM_TO_RENAME'           => 'Нэр өөрчлөх утга',
+	'LBL_ENTER_NEW_NAME'           => 'Шинэ нэр оруулна уу',
+	'LBL_RENAME_PICKLIST_ITEM'     => 'Сонголтын жагсаалтын утгын нэрийг өөрчлөх',
+	'LBL_DELETE_PICKLIST_ITEMS'    => 'Сонголтын жагсаалтын утгыг устгах',
+	'LBL_ITEMS_TO_DELETE'          => 'Устгах утгууд',
+	'LBL_REPLACE_IT_WITH'          => 'Дараахтай солино',
+	'LBL_ASSIGN_TO_ROLE'           => 'Үүрэгт оноох',
+	'LBL_ALL_ROLES'                => 'Бүх үүрэг',
+	'LBL_CHOOSE_ROLES'             => 'Үүрэг сонгох',
+	'LBL_ALL_VALUES'               => 'Бүх утга',
+	'LBL_VALUES_ASSIGNED_TO_A_ROLE' => 'Үүрэгт оноогдсон утгууд',
+	'LBL_ASSIGN_VALUE'             => 'Утга оноох',
+	'LBL_SAVE_ORDER'               => 'Дарааллыг хадгалах',
+	'LBL_ROLE_NAME'                => 'Үүргийн нэр',
+	'LBL_SELECTED_VALUES_MESSGAE'  => 'энэ үүрэгтэй хэрэглэгчид харагдана',
+	'LBL_ENABLE/DISABLE_MESSGAE'   => 'Идэвхжүүлэх/Идэвхгүй болгохын тулд утга дээр дарна уу. Дараа нь "Хадгалах"-ыг дарна уу',
+	'LBL_ASSIGN_VALUES_TO_ROLES'   => 'Үүргүүдэд утга оноох',
+	'LBL_SELECTED_VALUES'          => 'Сонгосон утгууд',
+	'NO_PICKLIST_FIELDS'           => 'сонголтын жагсаалтын талбар алга',
+
+	// Модуль орчуулга
+	'Calendar' => 'Хийх ажил',
 );
 $jsLanguageStrings = array(
-	'JS_ITEM_RENAMED_SUCCESSFULLY' => 'Item renamed successfully'   , // TODO: Review
-	'JS_ITEM_ADDED_SUCCESSFULLY'   => 'Item added successfully'     , // TODO: Review
-	'JS_NO_ITEM_SELECTED'          => 'No item selected'            , // TODO: Review
-	'JS_MORE_THAN_ONE_ITEM_SELECTED' => 'More than one item selected' , // TODO: Review
-	'JS_ITEMS_DELETED_SUCCESSFULLY' => 'Items deleted successfully'  , // TODO: Review
-	'JS_YOU_CANNOT_DELETE_ALL_THE_VALUES' => 'You cannot delete all the values', // TODO: Review
-	'JS_ALL_ROLES_SELECTED'        => 'All Roles selected'          , // TODO: Review
-	'JS_LIST_UPDATED_SUCCESSFULLY' => 'List updated successfully'   , // TODO: Review
-	'JS_SEQUENCE_UPDATED_SUCCESSFULLY' => 'Sequence updated successfully', // TODO: Review
-	'JS_VALUE_ASSIGNED_SUCCESSFULLY' => 'Value assigned successfully' , // TODO: Review
-	'JS_PLEASE_SELECT_MODULE'      => 'Please select module'        , // TODO: Review
+	'JS_ITEM_RENAMED_SUCCESSFULLY' => 'Утгын нэр амжилттай өөрчлөгдлөө',
+	'JS_ITEM_ADDED_SUCCESSFULLY'   => 'Утга амжилттай нэмэгдлээ',
+	'JS_NO_ITEM_SELECTED'          => 'Ямар ч утга сонгогдоогүй',
+	'JS_MORE_THAN_ONE_ITEM_SELECTED' => 'Нэгээс олон утга сонгогдсон байна',
+	'JS_ITEMS_DELETED_SUCCESSFULLY' => 'Утгууд амжилттай устгагдлаа',
+	'JS_YOU_CANNOT_DELETE_ALL_THE_VALUES' => 'Та бүх утгыг устгаж болохгүй',
+	'JS_ALL_ROLES_SELECTED'        => 'Бүх үүрэг сонгогдсон',
+	'JS_LIST_UPDATED_SUCCESSFULLY' => 'Жагсаалт амжилттай шинэчлэгдлээ',
+	'JS_SEQUENCE_UPDATED_SUCCESSFULLY' => 'Дараалал амжилттай шинэчлэгдлээ',
+	'JS_VALUE_ASSIGNED_SUCCESSFULLY' => 'Утга амжилттай оноогдлоо',
+	'JS_PLEASE_SELECT_MODULE'      => 'Модуль сонгоно уу',
 );

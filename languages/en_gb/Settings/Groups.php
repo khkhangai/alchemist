@@ -1,24 +1,24 @@
 <?php
 /*+**********************************************************************************
- * The contents of this file are subject to the vtiger CRM Public License Version 1.0
- * ("License"); You may not use this file except in compliance with the License
- * The Original Code is:  vtiger CRM Open Source
- * The Initial Developer of the Original Code is vtiger.
- * Portions created by vtiger are Copyright (C) vtiger.
- * All Rights Reserved.
+ * Энэ файлын агуулга нь vtiger CRM Нийтийн Лицензийн 1.0 хувилбарт хамаарна
+ * ("Лиценз"); Та энэхүү файлыг зөвхөн Лицензийн шаардлагын дагуу ашиглаж болно
+ * Эх код нь:  vtiger CRM Нээлттэй эх
+ * Эх кодын анхны хөгжүүлэгч нь vtiger.
+ * vtiger-ийн бүтээсэн хэсгүүд нь © vtiger.
+ * Бүх эрх хуулиар хамгаалагдсан.
  ************************************************************************************/
 $languageStrings = array(
-	'LBL_TRANSFORM_OWNERSHIP'      => 'Transfer Ownership'          , 
-	'SINGLE_Groups'                => 'Group'                       , // TODO: Review
-	'LBL_TO_OTHER_GROUP'           => 'To other Group '             , 
-	'LBL_ADD_RECORD'               => 'Add Group'                   , // TODO: Review
-	'LBL_GROUP_NAME'               => 'Group Name'                  , // TODO: Review
-	'LBL_GROUP_MEMBERS'            => 'Group Members'               , // TODO: Review
-	'LBL_ADD_USERS_ROLES'          => 'Add Users, Roles...'         , // TODO: Review
-	'LBL_ROLEANDSUBORDINATE'       => 'Role and Subordinates'       , // TODO: Review
-	'RoleAndSubordinates'          => 'Role and Subordinates'       , // TODO: Review
+	'LBL_TRANSFORM_OWNERSHIP'      => 'Эзэмшигч шилжүүлэх'          , // TODO: Review
+	'SINGLE_Groups'                => 'Бүлэг'                       , // TODO: Review
+	'LBL_TO_OTHER_GROUP'           => 'Өөр бүлэгт'                  , // TODO: Review
+	'LBL_ADD_RECORD'               => 'Бүлэг нэмэх'                 , // TODO: Review
+	'LBL_GROUP_NAME'               => 'Бүлгийн нэр'                 , // TODO: Review
+	'LBL_GROUP_MEMBERS'            => 'Бүлгийн гишүүд'              , // TODO: Review
+	'LBL_ADD_USERS_ROLES'          => 'Хэрэглэгч, Үүрэг нэмэх...'   , // TODO: Review
+	'LBL_ROLEANDSUBORDINATE'       => 'Үүрэг ба дэд үүргүүд'        , // TODO: Review
+	'RoleAndSubordinates'          => 'Үүрэг ба дэд үүргүүд'        , // TODO: Review
 );
 $jsLanguageStrings = array(
-	'JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP' => 'Please select at least one member for a Group', // TODO: Review
-	'JS_RECORD_DELETED_SUCCESSFULLY' => 'Group deleted successfully'  , // TODO: Review
+	'JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP' => 'Бүлэгт дор хаяж нэг гишүүн сонгоно уу'  , // TODO: Review
+	'JS_RECORD_DELETED_SUCCESSFULLY' => 'Бүлэг амжилттай устгагдлаа'                              , // TODO: Review 
 );

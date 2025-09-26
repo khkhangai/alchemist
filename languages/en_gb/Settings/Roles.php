@@ -1,27 +1,27 @@
 <?php
 /*+**********************************************************************************
- * The contents of this file are subject to the vtiger CRM Public License Version 1.0
- * ("License"); You may not use this file except in compliance with the License
- * The Original Code is:  vtiger CRM Open Source
- * The Initial Developer of the Original Code is vtiger.
- * Portions created by vtiger are Copyright (C) vtiger.
- * All Rights Reserved.
+ * Энэ файлын агуулга нь vtiger CRM Нийтийн Лицензийн 1.0 хувилбарт хамаарна
+ * ("Лиценз"); Та энэхүү файлыг зөвхөн Лицензийн шаардлагын дагуу ашиглаж болно
+ * Эх код нь:  vtiger CRM Нээлттэй эх
+ * Эх кодын анхны хөгжүүлэгч нь vtiger.
+ * vtiger-ийн бүтээсэн хэсгүүд нь © vtiger.
+ * Бүх эрх хуулиар хамгаалагдсан.
  ************************************************************************************/
 $languageStrings = array(
-	'Roles'                        => 'Roles'                       , 
-	'SINGLE_Roles'                 => 'Role'                        , 
-	'LBL_ADD_RECORD'               => 'Add Role'                    , 
-	'LBL_DELETE_ROLE'              => 'Delete Role'                 , // TODO: Review
-	'LBL_TRANSFER_OWNERSHIP'       => 'Transfer Ownership'          , // TODO: Review
-	'LBL_TO_OTHER_ROLE'            => 'To other Role'               , // TODO: Review
-	'LBL_CLICK_TO_EDIT_OR_DRAG_TO_MOVE' => 'Click to edit, drag to move'  , // TODO: Review
-	'LBL_ASSIGN_ROLE'              => 'Assign Role'                 , // TODO: Review
-	'LBL_CHOOSE_PROFILES'          => 'Choose Profiles'             , // TODO: Review
-	'LBL_COPY_PRIVILEGES_FROM'     => 'Copy Privileges from'        , // TODO: Review
-	'LBL_PROFILE'                  => 'Profile'                     , // TODO: Review
-	'LBL_REPORTS_TO'               => 'Reports To'                  , // TODO: Review
-	'LBL_NAME'                     => 'Name'                        , // TODO: Review
-	'LBL_ASSIGN_NEW_PRIVILEGES'    => 'Assign Privileges directly to Role', // TODO: Review
-	'LBL_ASSIGN_EXISTING_PRIVILEGES' => 'Assign Priviliges from existing Profiles', // TODO: Review
-	'LBL_PRIVILEGES'               => 'Privileges'                  , // TODO: Review
+	'Roles'                        => 'Үүргүүд', 
+	'SINGLE_Roles'                 => 'Үүрэг', 
+	'LBL_ADD_RECORD'               => 'Үүрэг нэмэх', 
+	'LBL_DELETE_ROLE'              => 'Үүрэг устгах', 
+	'LBL_TRANSFER_OWNERSHIP'       => 'Эзэмшигч шилжүүлэх', 
+	'LBL_TO_OTHER_ROLE'            => 'Бусад үүрэгт', 
+	'LBL_CLICK_TO_EDIT_OR_DRAG_TO_MOVE' => 'Засах бол дарна уу, шилжүүлэх бол чирнэ үү', 
+	'LBL_ASSIGN_ROLE'              => 'Үүрэг оноох', 
+	'LBL_CHOOSE_PROFILES'          => 'Профайл сонгох', 
+	'LBL_COPY_PRIVILEGES_FROM'     => 'Эрхийг хуулах эх үүсвэр', 
+	'LBL_PROFILE'                  => 'Профайл', 
+	'LBL_REPORTS_TO'               => 'Дагаж тайлагнах', 
+	'LBL_NAME'                     => 'Нэр', 
+	'LBL_ASSIGN_NEW_PRIVILEGES'    => 'Шинэ эрхийг шууд үүрэгт оноох', 
+	'LBL_ASSIGN_EXISTING_PRIVILEGES' => 'Одоо байгаа профайлаас эрх оноох', 
+	'LBL_PRIVILEGES'               => 'Эрхүүд', 
 );
